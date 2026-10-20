@@ -1,0 +1,52 @@
+name: checks
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  dictionary:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: zh.tsv is in sync with its sources
+        run: |
+          python build_dict.py
+          git diff --exit-code -- zh.tsv
+      - name: the patch still applies to the pinned epaint
+        run: |
+          set -eu
+          tag=$(sed -n 's/^pkgver=//p' aur/PKGBUILD)
+          version=$(curl -fsSL "https://raw.githubusercontent.com/pch/rawmakase/v$tag/Cargo.lock" |
+            python3 -c 'import re,sys; print(re.search(r"name = \"epaint\"\nversion = \"([^\"]+)\"", sys.stdin.read()).group(1))')
+          echo "epaint $version for rawmakase $tag"
+          curl -fsSL "https://static.crates.io/crates/epaint/epaint-$version.crate" -o /tmp/epaint.crate
+          mkdir -p /tmp/epaint
+          tar xzf /tmp/epaint.crate -C /tmp/epaint --strip-components=1
+          python tools/patch_epaint.py /tmp/epaint patches/zh.rs
+          grep -q "translate_job" /tmp/epaint/src/text/fonts.rs
+      - name: tools and translations parse
+        run: |
+          python -m py_compile build_dict.py tools/*.py
+          python tools/extract_missing.py
+
+  packaging:
+    runs-on: ubuntu-latest
+    container: archlinux:latest
+    steps:
+      - name: install tools
+        run: pacman -Sy --noconfirm --needed git python pacman-contrib >/dev/null
+      - uses: actions/checkout@v4
+      - name: .SRCINFO matches PKGBUILD
+        run: |
+          cd aur
+          makepkg --printsrcinfo > /tmp/SRCINFO
+          diff -u .SRCINFO /tmp/SRCINFO
+      - name: PKGBUILD lint
+        run: |
+          cd aur
+          namcap PKGBUILD || true

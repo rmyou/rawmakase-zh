@@ -1,0 +1,9 @@
+# Build products and upstream checkout: created by tools/rebuild-zh.sh
+/src/
+/build/
+/patched/
+/target/
+/testphotos/
+/screenshots/*.tmp.png
+zh_new.txt
+*.prev

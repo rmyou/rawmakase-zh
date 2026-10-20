@@ -1,0 +1,2621 @@
+# RAWmakase Chinese dictionary: English<TAB>Chinese.
+# {placeholders} keep their order between the two sides.
+Cancelled	已取消
+Cancel	取消
+Auto	自动
+Amount	数量
+Catalog	目录
+Custom	自定义
+Hue	色相
+Profile	配置文件
+Choose…	选择…
+Delete	删除
+Done	完成
+Green	绿色
+Point Color	点颜色
+Saturation	饱和度
+Shadows	阴影
+Blue	蓝色
+Camera	相机
+Color	颜色
+Develop	显影
+Export…	导出…
+Highlights	高光
+Left / Right	左 / 右
+Luminance	明亮度
+Navigator	导航器
+Purple	紫色
+Red	红色
+Remove	移除
+Select	选择
+Size	大小
+Yellow	黄色
+Arrows	方向键
+As Shot	按拍摄设置
+Back to the grid	返回网格
+Background	背景
+Camera profiles	相机配置文件
+Clear	清除
+Copy	复制
+Crop & Straighten	裁剪与拉直
+Export	导出
+Exposure	曝光
+Feather	羽化
+Grid	网格
+Histogram	直方图
+Imported	已导入
+Masking	蒙版
+Match Total Exposures	匹配总曝光
+Name	名称
+No label	无色标
+None	无
+Offline	离线
+Opacity	不透明度
+Open in Develop	在显影中打开
+Pick	选为留用
+Presets	预设
+Quick Collection	快速集合
+Red Eye	红眼
+Reset	重置
+Settings	设置
+Show	显示
+Straighten	拉直
+Subject	主体
+Unflagged	未标记
+User Presets	用户预设
+{step} Hue	{step} 色相
+{step} Saturation	{step} 饱和度
+All	全部
+All Photographs	所有照片
+All channels	所有通道
+Apply auto mix when first converting to black and white	首次转换为黑白时应用自动混合
+Auto tone	自动色调
+Automation settings not saved: {e:#}	自动化设置未保存：{e:#}
+Basic	基本
+Before	修改前
+Bit Depth	位深度
+Black & White Mix	黑白混合
+Blacks	黑色色阶
+Brush	画笔
+Capture Time	拍摄时间
+Checking…	正在检查…
+Choose a folder to export to	选择导出文件夹
+Choose an input	选择输入
+Close	关闭
+Color Grading	颜色分级
+Color Mixer	颜色混合器
+Compare	比较
+Copy History Step Settings to Before	将历史步骤设置复制到修改前
+Copy Name	复制名称
+Copyright	版权
+Create	新建
+Creator	创作者
+Current catalog	当前目录
+Defaults	默认值
+Delete All Swatches	删除所有色板
+Delete Swatch	删除色板
+Detail	细节
+Develop · D	显影 · D
+Discard 1:1 Previews	丢弃 1:1 预览
+Dismiss	忽略
+Do nothing	不做任何操作
+Down	下
+Download	下载
+Edited	已编辑
+Edits not saved: {e}	编辑未保存：{e}
+Export settings not saved: {e:#}	导出设置未保存：{e:#}
+Export with previous	使用上次导出设置
+File Name	文件名
+Fit	适合
+Folder	文件夹
+Folders	文件夹
+Global	全局
+Guided	引导
+Hide	隐藏
+Hide / show the side panels	隐藏/显示侧面板
+History	历史记录
+Import Folder…	导入文件夹…
+Import Lens Profiles…	导入镜头配置文件…
+Import from Lightroom	从 Lightroom 导入
+Invalid preview size	预览尺寸无效
+Keyboard Shortcuts	键盘快捷键
+Left	左
+Lens	镜头
+Lens profiles	镜头配置文件
+Library	图库
+Library grid	图库网格
+Lightroom catalog	Lightroom 目录
+Location	位置
+Loupe	放大视图
+Lowercase	小写
+Lum	亮度
+Make a photo active for rating keys	先选中一张照片才能使用评分快捷键
+Metadata	元数据
+Metadata could not be saved: {e}	元数据无法保存：{e}
+Mixer	混合器
+Move the active photo	移动当前照片
+Never	从不
+New Develop Preset	新建显影预设
+None found	未找到
+Not now	暂不
+Note {note}	备注 {note}
+Off	关
+Open a photo in Develop first	请先在显影中打开一张照片
+Orientation	方向
+Original	原始
+Other labels	其他色标
+Paste Settings	粘贴设置
+Pictures	图片
+Point Curve	点曲线
+Preferences	首选项
+Presence	质感
+Presets and History	预设与历史记录
+Previews	预览
+Previous / next photo	上一张/下一张
+Previous Import	上次导入
+Range	范围
+Range High	范围上限
+Rating	评分
+Raw defaults not saved: {e:#}	RAW 默认值未保存：{e:#}
+Redo	重做
+Reference	参考
+Refine	细化
+Reject	排除
+Rejected	已排除
+Rename	重命名
+Reset all settings	重置所有设置
+Reset {title}	重置{title}
+Right	右
+Sat	饱和度
+Save	保存
+Setup	设置
+Shadow	阴影
+Shadow Hue	阴影色相
+Sharpening	锐化
+Skip	跳过
+Sky	天空
+Spot removal	污点修复
+Survey	筛选
+Sync Settings…	同步设置…
+Synchronize	同步
+Synchronize Folder failed: {e}	同步文件夹失败：{e}
+Synchronize Folder…	同步文件夹…
+Synchronize Settings	同步设置
+Text	文字
+Tone	色调
+Tone Curve	色调曲线
+Top / Bottom	上 / 下
+Transform	变换
+Undo	撤销
+Up	上
+Update	更新
+Update with Current Settings	用当前设置更新
+Uppercase	大写
+Upright	自动校正
+Vertical	垂直
+Wait for the preview to update, then pick again	等预览更新后再重新取色
+White balance selector	白平衡吸管
+Whites	白色色阶
+Work still pending	仍有任务在进行
+could not write {}: {e}	无法写入 {}：{e}
+the host answered {code} for {}	主机对 {} 返回 {code}
+ (inverted)	（反相）
+ (on {endpoint})	（位于 {endpoint}）
+ / Copy	 / 副本
+ / Copy 1	 / 副本 1
+ · using {used}	 · 使用 {used}
++ label	+ 添加色标
++ saves the photo as it is now	+ 按当前状态保存照片
+1 {noun}	1 {noun}
+100% • full quality	100% • 完整质量
+16 bits/component, uncompressed	16 位/通道，未压缩
+3-Way	三向
+4 changes found in 1,240 files	在 1,240 个文件中找到 4 处更改
+65 x 24 (XPan)	65 × 24（XPan）
+A photo holds up to {MAX_GROUPS} masks	每张照片最多 {MAX_GROUPS} 个蒙版
+A smaller limit removes older entries on the next cache write.	较小的上限会在下次写入缓存时移除较早的条目。
+A synchronization is already running.	同步正在进行中。
+A: show fine detail in black and white, so dust stands out	A：以黑白显示细节，让灰尘更明显
+AHD for Bayer sensors, Markesteijn for X-Trans.	Bayer 传感器用 AHD，X-Trans 用 Markesteijn。
+About	关于
+Absolute (0–127)	绝对值（0–127）
+Active	活动
+Add	添加
+Add Catchlight	添加眼神光
+Add Folder…	添加文件夹…
+Add Guide	添加参考线
+Add Photo Folder…	添加照片文件夹…
+Add Swatch	添加色板
+Add a control	添加控件
+Add a folder of photos to this catalog. Photos stay where they are.	向此目录添加一个照片文件夹。照片仍保留在原位置。
+Add button	添加按钮
+Add device	添加设备
+Add dial / slider	添加旋钮/滑块
+Add or remove a photo	添加或移除照片
+Add photo folder	添加照片文件夹
+Add photo folder…	添加照片文件夹…
+Add photos first to find the ones for your cameras	先添加照片，才能找出适合你相机的配置文件
+Add photos in the Library to start editing	在图库中添加照片即可开始编辑
+Add this photo to a catalog to use AI masks	将此照片加入目录才能使用 AI 蒙版
+Add to favorites	添加到收藏
+Add to or take out of it	加入或移出
+Add your photos	添加你的照片
+Added Order	添加顺序
+Added as Add Photo Folder adds them, with their sidecar metadata.	与“添加照片文件夹”相同，会连同附属元数据一起加入。
+Added to	添加到
+Adding new files failed: {e:#}	添加新文件失败：{e:#}
+Adding {name} to the Library…	正在将 {name} 添加到图库…
+Adding {name}'s folder to the Library…	正在将 {name} 的文件夹添加到图库…
+Adjust	调整
+Adobe lens profiles	Adobe 镜头配置文件
+Advanced connection	高级连接
+After 30 Days	30 天后
+After Export	导出后
+After One Day	一天后
+After One Week	一周后
+Align	对齐
+All Folders	所有文件夹
+All {total}	全部 {total}
+Allow local scripts and applications	允许本地脚本和应用程序
+Always	始终
+Analyse the photo again, e.g. after changing lens corrections	重新分析照片，例如在修改镜头校正之后
+Anchor	锚点
+Angle	角度
+App data	应用数据
+Apply and go to the next photo	应用并转到下一张
+Apply the adjustment outside the mask	在蒙版外应用调整
+Aqua	青色
+Arrow down	下方向键
+Arrow up	上方向键
+Ask what to do	询问如何处理
+Aspect	比例
+Aspect Ratio	长宽比
+Auto Advance	自动前进
+Auto Mask	自动蒙版
+Auto Settings	自动设置
+Auto is still working on it	自动调整仍在处理
+Auto settings are applied	已应用自动设置
+Auto straighten found no horizon or verticals to level	自动拉直未找到可校正的地平线或垂直线
+Auto straighten: the analysis failed unexpectedly	自动拉直：分析意外失败
+Auto: {e:#}	自动：{e:#}
+Automation	自动化
+Available once the photo has finished developing	照片显影完成后可用
+B adds the selected photos · ⌘B shows them	B 将所选照片加入 · ⌘B 显示它们
+Backing up and upgrading the catalog…	正在备份并升级目录…
+Backslash	反斜杠
+Before / After	修改前/修改后
+Before / after	修改前/修改后
+Before After	修改前后
+Before Only	仅修改前
+Before alone	仅显示修改前
+Before and after, left and right	修改前后左右并列
+Before and after, split	修改前后分割
+Before and after, top and bottom	修改前后上下并列
+Before/After views · Y, Option+Y, Shift+Y	修改前/修改后视图 · Y、Option+Y、Shift+Y
+Before: {error}	修改前：{error}
+Black & White	黑白
+Black & white	黑白
+Black point	黑场
+Blue Primary	蓝色原色
+Bring over your Lightroom library	迁移你的 Lightroom 图库
+Bring over your Lightroom library…	迁移你的 Lightroom 图库…
+Brush or red eye size (Shift: feather)	画笔或红眼大小（Shift：羽化）
+Brush or red eye size over the photo (Shift: feather)	在照片上调整画笔或红眼大小（Shift：羽化）
+Build 1:1 Previews	构建 1:1 预览
+Build Standard-Sized Previews	构建标准尺寸预览
+Buttons	按钮
+CC {cc} · value {v}	CC {cc} · 值 {v}
+Cache size limit	缓存大小上限
+Calibration	校准
+Camera and capture info (EXIF)	相机与拍摄信息（EXIF）
+Camera preview • developing RAW…	相机预览 • 正在显影 RAW…
+Cancel download	取消下载
+Cancel export	取消导出
+Cancel it and close	取消并关闭
+Candidate	候选项
+Cannot sample a color: {e:#}	无法取样颜色：{e:#}
+Cannot sample the photo: {e:#}	无法取样照片：{e:#}
+Cannot set the fringe color: click a purple or green fringe	无法设置边缘颜色：请单击紫色或绿色边缘
+Caption	说明
+Capture times could not be saved: {e}	拍摄时间无法保存：{e}
+Catalog operation failed: {e}	目录操作失败：{e}
+Catalog ready. Add a folder of photos to begin.	目录已就绪。添加一个照片文件夹即可开始。
+Catalog size	目录大小
+Catalog: open, create or import	目录：打开、新建或导入
+Catalogs	目录
+Center	居中
+Change the candidate	更换候选项
+Change…	更改…
+Check All	全选
+Check None	全不选
+Check Now	立即检查
+Check for updates automatically	自动检查更新
+Checking installed presets…	正在检查已安装预设…
+Checking {noun}… {i} of {total}	正在检查{noun}… {i}/{total}
+Checksums	校验和
+Checksums could not be saved: {e}	校验和无法保存：{e}
+Choose Profile…	选择配置文件…
+Choose a new name for the exported file	为导出文件选择新名称
+Choose one or more .xmp presets	选择一个或多个 .xmp 预设
+Clarity	清晰度
+Clear 1:1 Previews	清除 1:1 预览
+Clear Guides	清除参考线
+Clear Overrides	清除覆盖
+Clear Search	清除搜索
+Clear Standard Previews	清除标准预览
+Clear every filter in the bar · {toggle_keys} turns them off for now	清除筛选栏中的所有筛选条件 · {toggle_keys} 可暂时关闭筛选
+Clear it	清除
+Cleared Quick Collection	已清空快速集合
+Click a spot to remove it · drag to paint · ⌘/Ctrl-drag to pick the source	单击一处即去除 · 拖动涂抹 · ⌘/Ctrl 拖动选取源
+Click or drag to inspect that area	单击或拖动以检查该区域
+Click the dropper, then a color in the photo	单击吸管，然后在照片上点选颜色
+Click the part of the photo to add, Alt-click to leave out	单击要添加的照片区域，Alt 单击可排除
+Click the photo to pick a colour	单击照片取色
+Click the photo to select tones like the one there	单击照片选取与之相近的色调
+Click the subject on the photo, or drag a box around it	单击照片中的主体，或拖动框选
+Click the subject…	单击主体…
+Click to add · drag to shape · right-click to remove	单击添加 · 拖动调整形状 · 右键移除
+Click to apply · right-click to update, rename or delete	单击应用 · 右键更新、重命名或删除
+Click to select · double-click to rename	单击选择 · 双击重命名
+Clipping	裁切警告
+Clone	仿制
+Close Masking · Shift+W or Escape	关闭蒙版 · Shift+W 或 Esc
+Close anyway	仍然关闭
+Close the tool	关闭工具
+Close the tool · Q	关闭工具 · Q
+Close without saving	不保存并关闭
+Close · Esc	关闭 · Esc
+Collection	集合
+Collections	集合
+Color Mixer: Hue	颜色混合器：色相
+Color Mixer: Luminance	颜色混合器：明亮度
+Color Mixer: Saturation	颜色混合器：饱和度
+Color Range	颜色范围
+Color Space	色彩空间
+Come back any time from the catalog menu.	随时可以从目录菜单返回。
+Coming from Lightroom Classic?	从 Lightroom Classic 迁移？
+Compact Cells	紧凑单元格
+Compare the active photo with the next	将当前照片与下一张比较
+Compatible	兼容
+Compatible shows the presets this photo can take in full.	“兼容”显示这张照片可以完整应用的预设。
+Compatible {fit}	兼容 {fit}
+Computer not renamed: {e:#}	计算机无法重命名：{e:#}
+Connected	已连接
+Constrain Crop	限制裁剪
+Continue	继续
+Contrast	对比度
+Control Dial	控制旋钮
+Control format	控制格式
+Control mappings	控制映射
+Control socket: {e}	控制套接字：{e}
+Convert to Black & White	转换为黑白
+Convert to Color	转换为彩色
+Convert to black & white or back to color	转换为黑白或变回彩色
+Convert to black & white or color	转换为黑白或彩色
+Converting to Black & White once the photo is decoded	照片解码后转换为黑白
+Copies	副本
+Copy / paste settings	复制/粘贴设置
+Copy After's Settings to Before	将“修改后”的设置复制到“修改前”
+Copy Before to After / After to Before	在修改前与修改后之间复制
+Copy Before's Settings to After	将“修改前”的设置复制到“修改后”
+Copy File Path	复制文件路径
+Copy Settings	复制设置
+Copy Settings…	复制设置…
+Copy Snapshot Settings to Before	将快照设置复制到修改前
+Copy name could not be saved: {e}	复制名称无法保存：{e}
+Copy settings…	复制设置…
+Copy, paste and sync settings, presets and export	复制、粘贴和同步设置、预设与导出
+Could not open the setup guide: {error}	无法打开设置向导：{error}
+Could not read automation settings: {e:#}	无法读取自动化设置：{e:#}
+Could not show {}: {e}	无法显示 {}：{e}
+Could not start local access	无法启动本地访问
+Could not start the model install: {e}	无法启动模型安装：{e}
+Couldn’t reach GitHub.	无法连接 GitHub。
+Couldn’t save your answer, so it wasn’t changed.	你的选择无法保存，因此未做更改。
+Couldn’t save your answer. Try again.	你的选择无法保存，请重试。
+Create Default	创建默认
+Create Virtual Copy	创建虚拟副本
+Create a mask, or click a pin on the photo to select one. Shift+W closes.	新建蒙版，或单击照片上的图钉选择蒙版。Shift+W 可关闭。
+Create virtual copy	创建虚拟副本
+Crop & Straighten · R	裁剪与拉直 · R
+Current version	当前版本
+Curve name	曲线名称
+Custom MIDI device	自定义 MIDI 设备
+Custom Text	自定义文字
+Custom mode	自定义模式
+Cycle photo info	循环切换照片信息
+Cycle the grid cell style	循环切换网格单元格样式
+Darken	压暗
+Darks	暗部
+Decide later	稍后决定
+Decoded images	已解码图像
+Decoded photo cache	已解码照片缓存
+Default	默认
+Default (camera matrix)	默认（相机矩阵）
+Defringe	去边缘
+Defringe {name} Hue	去边缘 {name} 色相
+Delete Guide	删除参考线
+Delete removes the selected correction	删除可移除所选校正
+Delete the selected spot, guide or red eye	删除所选污点、参考线或红眼
+Delete this mask · Delete	删除此蒙版 · Delete
+Delete this watermark and its image	删除此水印及其图像
+Demosaic	去马赛克
+Density	密度
+Deselect the active photo	取消选中当前照片
+Desktop	桌面
+Develop presets	显影预设
+Develop settings (Camera Raw XMP)	显影设置（Camera Raw XMP）
+Device settings	设备设置
+Diagonal	对角线
+Dials and faders	旋钮和推子
+Dimensions	尺寸
+Disabled	已禁用
+Discard Standard and 1:1 Previews	丢弃标准预览和 1:1 预览
+Display	显示
+Display: custom ICC (disable compositor ICC conversion)	显示：自定义 ICC（禁用合成器 ICC 转换）
+Display: custom ICC (manual monitor conversion)	显示：自定义 ICC（手动显示器转换）
+Display: sRGB (compositor may manage the monitor)	显示：sRGB（合成器可管理显示器）
+Display: sRGB (managed by macOS)	显示：sRGB（由 macOS 管理）
+Distortion	畸变
+Distortion and vignetting corrections for your lenses.	为你使用的镜头校正畸变和暗角。
+Don’t Share	不共享
+Downloading…	正在下载…
+Draft • refining	草稿 • 正在细化
+Drag along a horizon or vertical to level it · or Cmd-drag on the photo	沿地平线或垂直线拖动以校正 · 或在照片上按 Cmd 拖动
+Drag on the photo from the centre outward	从照片中心向外拖动
+Drag on the photo to draw the gradient	在照片上拖动以绘制渐变
+Drag the catchlight to place it	拖动眼神光以放置
+Drag the centre to move it, the edge handles to size and turn it	拖动中心移动，拖动手柄调整大小并旋转
+Drag the ends to size and turn it, the middle to move it	拖动两端调整大小并旋转，拖动中间移动
+Drag the frame on the photo; changes apply live.	在照片上拖动边框，更改会实时应用。
+Drag the outer or inner points · double-click to reset	拖动外侧或内侧控制点 · 双击重置
+Draw	绘制
+Draw up to four guides along verticals and horizontals · Shift+T	沿垂直线和水平线绘制最多四条参考线 · Shift+T
+Drop a catalog to open it	将目录拖放到此处以打开
+Drop shadow	投影
+Drop to add to {name}	拖放到 {name}
+Duplicate	创建副本
+E / Return / double-click	E / Return / 双击
+Edit	编辑
+Edit Time	编辑时间
+Edit Watermarks…	编辑水印…
+Edits could not be saved. Retry or save a preset before closing.	编辑未能保存。请重试，或在关闭前保存预设。
+Edits not saved: {error}	编辑未保存：{error}
+Effects	效果
+Empty	空
+Enable Profile Corrections	启用配置文件校正
+Enabled	已启用
+Engine	引擎
+Erase	擦除
+Esc	Esc
+Escape	Escape
+Everywhere	所有位置
+Example	示例
+Execution started but the reply timed out; inspect state before retrying	执行已开始但回复超时；重试前请先检查状态
+Existing Files	现有文件
+Expanded Cells	展开单元格
+Experimental · early version	实验性 · 早期版本
+Export Location	导出位置
+Export One File	导出单个文件
+Export To	导出到
+Export cancelled	导出已取消
+Export stopped: the catalog could not be read: {e:#}	导出已停止：无法读取目录：{e:#}
+Export the selected photos · Ctrl+Shift+E	导出所选照片 · Ctrl+Shift+E
+Export the selected photos · ⇧⌘E	导出所选照片 · ⇧⌘E
+Export waits for the open photo: {why}	导出正在等待打开的照片：{why}
+Export with Previous	使用上次导出设置
+Export {count} Files	导出 {count} 个文件
+Exported 148 of 150 · 2 not exported · 1 with notes	已导出 148/150 · 2 个未导出 · 1 个有备注
+Exported, with notes	已导出，含备注
+Exporting 24 / 150	正在导出 24 / 150
+Exporting {current} / {}	正在导出 {current} / {}
+Extend the selection	扩展选择
+Extensions	扩展名
+External control is disabled	外部控制已禁用
+Fader P1	推子 P1
+Fader P2	推子 P2
+Fader P3	推子 P3
+Fader P4	推子 P4
+Fader P5	推子 P5
+Fader P6	推子 P6
+Fader P7	推子 P7
+Fader P8	推子 P8
+Falloff High	衰减上限
+Falloff Low	衰减下限
+Faster, with equal or better detail.	更快，细节相当或更好。
+Favorites {favorites}	收藏 {favorites}
+File Extension	文件扩展名
+File Naming	文件命名
+File Settings	文件设置
+Files…	文件…
+Fill	填充
+Filters Off	筛选已关闭
+Find missing folder on this computer	在此计算机上查找缺失的文件夹
+Finding the {}…{where_at}	正在查找 {}…{where_at}
+Finish cropping · Enter or R	完成裁剪 · Enter 或 R
+Finish exporting before updating	更新前请先完成导出
+Finish the crop	完成裁剪
+Finish what is running first, then synchronize.	请先完成正在运行的任务，然后再同步。
+First / last photo	第一张/最后一张
+Fit or the last zoom	适合或上次缩放
+Fit • full quality	适合 • 完整质量
+Flag	标记
+Flagged	已标记
+Flip H	水平翻转
+Flip V	垂直翻转
+Flow	流量
+Fn	Fn
+Focal Length	焦距
+Fold / open Presets and History	折叠/展开预设与历史记录
+Folder location changed. {available} of {} photos are available.	文件夹位置已更改。{} 张照片中有 {available} 张可用。
+Folder locations	文件夹位置
+Folder not removed: {e:#}	文件夹未移除：{e:#}
+Folder of {name}, located separately	{name} 的文件夹，位于其他位置
+Folders come with their subfolders. Photos stay where they are.	文件夹会连同子文件夹一起加入。照片仍保留在原位置。
+Folders, collections, ratings, flags, labels, keywords and edits.	文件夹、集合、评分、标记、色标、关键词和编辑。
+Folder…	文件夹…
+Font	字体
+For photos added from folders, when neither the file nor its sidecar has one.	对于从文件夹添加的照片，当文件及其附属文件都没有此项时使用。
+Forget the clicks; the next click selects afresh	忘掉这些点击；下次单击将重新开始选择
+Forget this location on this computer	在此计算机上忘记该位置
+Format	格式
+Found	已找到
+Free	空闲
+Fringe color selector: click a purple or green fringe in the photo	边缘颜色吸管：单击照片中的紫色或绿色边缘
+From Lightroom	来自 Lightroom
+Full	完整
+G / Esc / double-click	G / Esc / 双击
+General	常规
+Golden Ratio	黄金比例
+Golden Spiral	黄金螺旋
+Grading wheel: fine adjustment	分级色轮：精细调整
+Grading wheel: hue or saturation only	分级色轮：仅色相或饱和度
+Grain	颗粒
+Graphic	图形
+Green Primary	绿色原色
+Group	组
+Guided Upright	引导式自动校正
+Guided Upright takes four guides; delete one to draw another	引导式自动校正需要四条参考线；删除一条才能再画一条
+Guided Upright: draw guides	引导式自动校正：绘制参考线
+Guides	参考线
+Handled by the import choosers	由导入选择器处理
+Has Lightroom edits	含 Lightroom 编辑
+Heal	修复
+Help	帮助
+Help make RAWmakase better	帮助改进 RAWmakase
+Hide / show all panels	隐藏/显示所有面板
+Hide / show the side panels and filmstrip	隐藏/显示侧面板和胶片显示窗格
+Hide Edit	隐藏编辑
+Hide pins	隐藏图钉
+Hide spot pins	隐藏污点图钉
+Hide {name}	隐藏{name}
+Highlight	高光
+History step not applied: {e:#}	历史步骤未应用：{e:#}
+Hold Alt	按住 Alt
+Hold Command	按住 Command
+Hold Shift	按住 Shift
+Home / End	Home / End
+Horizontal	水平
+Hover a preset and click its ★ to keep it here.	将鼠标悬停在预设上并单击其 \u{2605} 将其保留在此处。
+How grid cells show their photos ({keys} cycles)	网格单元格如何显示照片（{keys} 循环切换）
+How the rating compares	评分如何比较
+Hue Range	色相范围
+Hue Shift	色相偏移
+Hue, Sat and Lum Range	色相、饱和度与明亮度范围
+ICC profile	ICC 配置文件
+ISO Speed	ISO 感光度
+Image	图像
+Image Format	图像格式
+Image Options	图像选项
+Image Sizing	图像尺寸
+Import	导入
+Import Adobe base profile	导入 Adobe 基础配置文件
+Import Adobe profiles for this camera	为此相机导入 Adobe 配置文件
+Import Lightroom Catalog…	导入 Lightroom 目录…
+Import Lightroom presets (.xmp)	导入 Lightroom 预设（.xmp）
+Import Presets…	导入预设…
+Import Preset…	导入预设…
+Import Profiles…	导入配置文件…
+Import every .lcp lens profile in a folder and its subfolders	导入文件夹及其子文件夹中的全部 .lcp 镜头配置文件
+Import every DCP profile and XMP look in a folder and its subfolders	导入文件夹及其子文件夹中的全部 DCP 配置文件和 XMP 外观
+Import every preset in a folder and its subfolders	导入文件夹及其子文件夹中的所有预设
+Import failed: {error}	导入失败：{error}
+Import from a folder (and its subfolders) or chosen files	从文件夹（及其子文件夹）或指定文件导入
+Import profiles from folder…	从文件夹导入配置文件…
+Import profiles…	导入配置文件…
+Imported 40 presets · 3 already imported · 2 skipped	已导入 40 个预设 · 3 个已导入过 · 2 个已跳过
+Imported {imported} {}	已导入 {imported} {}
+Importing…	正在导入…
+Include	包含
+Include location info	包含位置信息
+Input	输入
+Inset	内嵌
+Installed	已安装
+Interface	界面
+Intersect	交集
+Invert	反相
+Invert component	反相分量
+Its History is from a newer RAWmakase	其历史记录来自更新版本的 RAWmakase
+Its catalog, camera and lens profiles and presets	其目录、相机和镜头配置文件与预设
+Keep Overrides	保留覆盖
+Keep editing	继续编辑
+Keep the brush within areas like the colour under its centre	将画笔限制在中心颜色相近的区域内
+Keep the folders located separately?	保留文件夹在其他位置？
+Keep the reference photo when you leave Develop	离开显影时保留参考照片
+Keeps decoded RAWs for faster reopening. Shared by all catalogs; default 4 GiB.	缓存已解码的 RAW 以加快重新打开。所有目录共用；默认 4 GiB。
+Keyword removed	已移除关键词
+Keywording	关键词
+Keywords	关键词
+Keywords added	已添加关键词
+Kind	类型
+Label Color	色标颜色
+Label Text	色标文字
+Label blue	蓝色色标
+Label green	绿色色标
+Label red	红色色标
+Label yellow	黄色色标
+Last input	最后输入
+Left Arrow	左方向键
+Left panel / right panel / filmstrip	左侧面板/右侧面板/胶片显示窗格
+Lens Corrections	镜头校正
+Level	水平
+Level the photo as Upright's Level would, by its angle alone	仅按角度将照片调平，与自动校正中的“水平”一致
+Levels	色阶
+Library · G	图库 · G
+Lightroom edit applied	已应用 Lightroom 编辑
+Lightroom edit not fully rendered: {w}	Lightroom 编辑未完整渲染：{w}
+Lightroom presets	Lightroom 预设
+Lightroom settings not applied: {e:#}	Lightroom 设置未应用：{e:#}
+Lightroom's folders aren't on this computer	Lightroom 的文件夹不在这台计算机上
+Lights	灯光
+Linear Gradient	线性渐变
+Listen to this device	监听此设备
+Load Preset File…	加载预设文件…
+Loading fonts…	正在加载字体…
+Loading full resolution…	正在加载完整分辨率…
+Loading photo…	正在加载照片…
+Loading themes…	正在加载主题…
+Loading…	正在加载…
+Local access	本地访问
+Locate root folder…	定位根文件夹…
+Locate this folder…	定位此文件夹…
+Located on this computer	位于此计算机
+Location cleared	已清除位置
+Locations	位置
+Lock	锁定
+Looking…	正在查找…
+Lower / raise the rating	降低/提高评分
+Lum Range	明亮度范围
+Lum Shift	明亮度偏移
+Luminance Range	明亮度范围
+MCP setup · macOS, Linux and Windows	MCP 设置 · macOS、Linux 和 Windows
+MIDI channel	MIDI 通道
+MIDI devices	MIDI 设备
+MIDI envelope removed before translation	MIDI 包络在转换前已移除
+MIDI input	MIDI 输入
+MIDI listener: {e}	MIDI 监听器：{e}
+Magenta	洋红
+Magnify the photo while placing a guide's end	放置参考线端点时放大照片
+Make	品牌
+Make the candidate the select	将候选项设为选中项
+Make the photo's near-neutral areas neutral	将照片中接近中性的区域调为中性
+Mask 2	蒙版 2
+Mask everything but the photo's main subject	蒙住主体以外的一切
+Mask the photo's main subject	蒙住照片主体
+Mask the sky	蒙住天空
+Masking · Shift+W	蒙版 · Shift+W
+Master	母版
+Masters	母版
+Match Total Exposures needs this photo's aperture, shutter speed and ISO	匹配总曝光需要此照片的光圈、快门速度和 ISO
+Match the entire port name	匹配完整端口名称
+Match total exposures	匹配总曝光
+Metadata could not be read for export: {e}	导出时无法读取元数据：{e}
+Metadata defaults	元数据默认值
+Metadata defaults not saved: {e:#}	元数据默认值未保存：{e:#}
+Metadata not read: {e:#}	元数据未读取：{e:#}
+Midtone	中间调
+Midtones	中间调
+Missing data directory	缺少数据目录
+Mode	模式
+Model	型号
+Model download cancelled	模型下载已取消
+Model not installed: {why}	模型未安装：{why}
+Model not removed: {e}	模型未移除：{e}
+Monitor profile	显示器配置文件
+Move Guide	移动参考线
+Move a dial or press a button to identify it	转动旋钮或按下按钮以识别
+Multiple ports match; choose a specific MIDI input	多个端口匹配；请选择具体的 MIDI 输入
+Nested request	嵌套请求
+New Catalog…	新建目录…
+New Develop Preset…	新建显影预设…
+New source for the selected spot	为所选污点更换源
+New {name} mask	新建{name}蒙版
+New {name} mask · {key}	新建{name}蒙版 · {key}
+New…	新建…
+Next crop overlay / turn it	下一裁剪叠加 / 旋转它
+Next photo	下一张
+No MIDI inputs found. Connect your device, then refresh inputs.	未找到 MIDI 输入。请连接设备，然后刷新输入。
+No action is mapped to this CC	此 CC 未映射任何操作
+No action is mapped to this note	此音符未映射任何操作
+No cameras in this catalog	此目录中没有相机
+No catalog	无目录
+No catalog is open	没有打开的目录
+No catalog is open.	没有打开的目录。
+No catalog open	没有打开的目录
+No collections	无集合
+No favorites yet	尚无收藏
+No folder chosen	未选择文件夹
+No folders yet	尚无文件夹
+No folders yet.	尚无文件夹。
+No matching profile	没有匹配的配置文件
+No person or animal found	未找到人物或动物
+No photo selected	未选择照片
+No preset has this id; list presets	没有此 ID 的预设；请列出预设
+No preset matches this name	没有匹配此名称的预设
+No presets fit this camera	没有适用于此相机的预设
+No presets match “{query}”	没有匹配“{query}”的预设
+No sky found	未找到天空
+Noise Reduction	降噪
+Not assigned	未分配
+Not available on this platform.	此平台不支持。
+Not connected	未连接
+Not deleted: {e:#}	未删除：{e:#}
+Not exported	未导出
+Not saved: {e}	未保存：{e}
+Note {id}	备注 {id}
+Note {n}	备注 {n}
+Nothing is ticked	未勾选任何项
+Nothing selected there; click on the subject itself	那里没有选中任何内容；请直接单击主体
+Nothing to adjust there: drag over a colored area	那里没有可调整的内容：请在有色区域上拖动
+Nothing to change	没有需要更改的内容
+Nudge the hovered slider (Shift: 10)	微调悬停的滑块（Shift：10）
+O cycles the overlays, Shift+O turns them	O 循环切换叠加，Shift+O 旋转它们
+O: the selected mask in red	O：以红色显示所选蒙版
+Offline Photographs	离线照片
+Offline, and there is no cached preview	离线，且没有缓存的预览
+Offline: relink its folder to edit	离线：重新链接其文件夹以编辑
+Offline: showing the cached preview	离线：显示缓存的预览
+Offset	偏移
+Omarchy’s current theme could not be read.	无法读取 Omarchy 的当前主题。
+On {computer}: {what}{}	在 {computer} 上：{what}{}
+One report a week, with no identifiers.	每周一份报告，不含任何标识信息。
+Only the catalog changes. Files on disk stay as they are.	仅目录会改变，磁盘上的文件保持不变。
+Open Catalog…	打开目录…
+Open RAWmakase catalog…	打开 RAWmakase 目录…
+Open a catalog first	请先打开一个目录
+Open a photo to apply a preset to	打开一张照片以应用预设
+Open a photo to preview the watermark	打开一张照片以预览水印
+Open a photo to see its snapshots and history.	打开一张照片以查看其快照和历史记录。
+Open in Develop, not verified	在显影中打开，未验证
+Open or create a catalog to add photos	打开或新建目录以添加照片
+Open or create a catalog to edit {name}	打开或新建目录以编辑 {name}
+Open the Loupe	打开放大视图
+Open the Photos catalog	打开 Photos 目录
+Open the changes found	打开找到的更改
+Open the setup guide in your default browser	在默认浏览器中打开设置向导
+Opened	已打开
+Opened ahead of time	已提前打开
+Opened with Lightroom edit	已带 Lightroom 编辑打开
+Opening catalog…	正在打开目录…
+Open…	打开…
+Or drag a folder onto this window.	或将文件夹拖到此窗口。
+Orange	橙色
+Output	输出
+Output already exists; choose a new path	输出已存在；请选择新路径
+Output directory does not exist	输出目录不存在
+Output histogram of the whole photo	整张照片的输出直方图
+Output path must be absolute	输出路径必须是绝对路径
+Output rendering failed unexpectedly	输出渲染意外失败
+Overlay	叠加
+Override global setting for specific camera	为特定相机覆盖全局设置
+Overwrite	覆盖
+Overwrite without warning	覆盖且不再提示
+Pan	平移
+Pan while a tool is open	工具打开时平移
+Panel header: Solo Mode	面板标题：独奏模式
+Panel layout not saved: {e:#}	面板布局未保存：{e:#}
+Parametric	参数曲线
+Paste	粘贴
+Paste Settings from Previous	粘贴上一张的设置
+Paste from Previous	粘贴上一张
+Paste settings	粘贴设置
+Paste settings from previous	粘贴上一张的设置
+Paste settings from previous photo	粘贴上一张照片的设置
+Pause reading checksums	暂停读取校验和
+Performance	性能
+Pet Eye	宠物眼
+Photo	照片
+Photo dial	照片旋钮
+Photo info could not be saved: {e}	照片信息无法保存：{e}
+Photo info overlay: Info 1, Info 2, off	照片信息叠加：信息 1、信息 2、关闭
+Photo navigation needs a relative control format.	照片导航需要相对控制格式。
+Photo navigation requires a relative encoder	照片导航需要相对编码器
+Photos	照片
+Photos Only	仅照片
+Pick / reject / unflag	留用/排除/取消标记
+Pick a Lightroom catalog (.lrcat) elsewhere	在其他位置选择 Lightroom 目录（.lrcat）
+Pick a color to adjust	选取要调整的颜色
+Pick a photo in the Library to edit it	在图库中选择一张照片进行编辑
+Pick a purple or green fringe	选取紫色或绿色边缘
+Pick a target neutral	选取目标中性色
+Pick · P	留用 · P
+Picked	已留用
+Pin {title} at the top	将{title}固定到顶部
+Point	点
+Point Color dropper: click a color in the photo to add a swatch	点颜色吸管：单击照片中的颜色以添加色板
+Point Color {label}	点颜色 {label}
+Point curve not read: {error}	点曲线未读取：{error}
+Point curve not saved: {e:#}	点曲线未保存：{e:#}
+Port name	端口名称
+Position	位置
+Post-Crop Vignetting	裁剪后暗角
+Post-Processing	后期处理
+Preferences · {shortcut}	首选项 · {shortcut}
+Preferences…	首选项…
+Preparing to restart…	正在准备重启…
+Preset	预设
+Preset Amount	预设数量
+Preset Name	预设名称
+Preset not applied: {e:#}	预设未应用：{e:#}
+Preset not changed: {e:#}	预设未更改：{e:#}
+Preset not created: no photo is open	预设未创建：没有打开的照片
+Preset not created: {e:#}	预设未创建：{e:#}
+Preset not renamed: {e:#}	预设未重命名：{e:#}
+Preset not updated: no photo is open	预设未更新：没有打开的照片
+Preset renamed; raw defaults not saved: {e:#}	预设已重命名；RAW 默认值未保存：{e:#}
+Preset saved	预设已保存
+Presets are still loading	预设仍在加载
+Presets not read: {error}	预设未读取：{error}
+Preview cache could not be updated	无法更新预览缓存
+Preview unavailable: {error}	预览不可用：{error}
+Previous photo	上一张照片
+Problem Exporting Files	导出文件时出现问题
+Process	处理
+Profiles & Presets	配置文件与预设
+Profiles not imported: {e:#}	配置文件未导入：{e:#}
+Proportional	等比
+Pupil Size	瞳孔大小
+Purge Cache	清除缓存
+Put in Subfolder:	放入子文件夹：
+Put the open tool away	收起当前工具
+Quality	质量
+Quick Collection not changed: {e}	快速集合未更改：{e}
+Quick Collection unavailable: {e}	快速集合不可用：{e}
+Quick Develop	快速显影
+RAWmakase catalog	RAWmakase 目录
+RAWmakase catalogs end in .rawmakase.	RAWmakase 目录以 .rawmakase 结尾。
+RAWmakase devices	RAWmakase 设备
+RAWmakase input	RAWmakase 输入
+RAWmakase is closing	RAWmakase 正在关闭
+RAWmakase is up to date.	RAWmakase 已是最新版本。
+RAWmakase preset	RAWmakase 预设
+Radial Gradient	径向渐变
+Radius	半径
+Raise / lower the flag	提高/降低标记
+Range Low	范围下限
+Ranges	范围
+Rating changed	评分已更改
+Rating is equal to	评分等于
+Rating is greater than or equal to	评分大于或等于
+Rating is less than or equal to	评分小于或等于
+Rating {} {star} · click again to clear	评分 {} {star} · 再次单击可清除
+Rating, flags and labels	评分、标记和色标
+Raw Defaults	RAW 默认值
+Raw defaults saved	RAW 默认值已保存
+Read	读取
+Read Metadata from Files reads their metadata again once the files can be read.	“从文件读取元数据”会在文件可读取后再次读取其元数据。
+Read Metadata from Files…	从文件读取元数据…
+Read in the background, to find photos moved or renamed outside RAWmakase.	在后台读取，以找出在 RAWmakase 之外被移动或重命名的照片。
+Read metadata from the file?	从文件读取元数据？
+Read metadata from {n} files?	从 {n} 个文件读取元数据？
+Reading RAW…	正在读取 RAW…
+Reading photo…	正在读取照片…
+Ready for scripts and MCP clients	已可供脚本和 MCP 客户端使用
+Ready to install. RAWmakase restarts to finish.	可以安装。RAWmakase 将重启以完成。
+Red Eye Correction	红眼校正
+Red Primary	红色原色
+Red, yellow, green, blue	红、黄、绿、蓝
+Redo · Ctrl+Shift+Z	重做 · Ctrl+Shift+Z
+Reference View	参考视图
+Reference View · Shift+R	参考视图 · Shift+R
+Reference photo: {error}	参考照片：{error}
+Refine with clicks…	单击细化…
+Refresh inputs	刷新输入
+Regenerate	重新生成
+Region	区域
+Reject · X	排除 · X
+Relative (1 / 127)	相对（1 / 127）
+Relative (1 / 65)	相对（1 / 65）
+Relative (65 / 63)	相对（65 / 63）
+Remind me later	稍后提醒
+Remove Chromatic Aberration	去除色差
+Remove Location Info	移除位置信息
+Remove Virtual Copy…	移除虚拟副本…
+Remove device	移除设备
+Remove every guide	移除所有参考线
+Remove every red eye correction	移除所有红眼校正
+Remove every spot	移除所有污点
+Remove from Catalog…	从目录移除…
+Remove from favorites	从收藏移除
+Remove missing photos?	移除缺失的照片？
+Remove selection model	移除选择模型
+Remove the crop, straightening, rotation and flips	移除裁剪、拉直、旋转和翻转
+Remove this camera's default	移除此相机的默认值
+Remove this part of the mask	移除此部分蒙版
+Remove · {text}	移除 · {text}
+Removed from	已移除自
+Rename Preset	重命名预设
+Rename To	重命名为
+Rename…	重命名…
+Request must be a newline-terminated JSON object of at most 64 KiB	请求必须是换行结尾、不超过 64 KiB 的 JSON 对象
+Reset All Settings	重置所有设置
+Reset Settings	重置设置
+Reset Sliders	重置滑块
+Reset a slider or grading wheel	重置滑块或分级色轮
+Reset mappings to profile	将映射重置为配置文件
+Resize to Fit: Long Edge	调整尺寸以适应：长边
+Resolution	分辨率
+Restart to Update	重启以更新
+Reverse the sort order	反转排序顺序
+Review synchronization of “{}”	查看“{}”的同步
+Right Arrow	右方向键
+Rotate	旋转
+Rotate L	向左旋转
+Rotate R	向右旋转
+Rotate left	向左旋转
+Rotate right	向右旋转
+Ruler	标尺
+Same folder as original photo	与原照片相同的文件夹
+Sat Range	饱和度范围
+Sat Shift	饱和度偏移
+Save Point Curve	保存点曲线
+Save Preset File…	保存预设文件…
+Save the RGB, Red, Green and Blue curves under a name	将 RGB、红、绿、蓝曲线以名称保存
+Saved edits protected; editing is temporary. Export or save a preset.	已保存的编辑受保护；当前编辑是临时的。请导出或保存预设。
+Saves the RGB, Red, Green and Blue curves for the Point Curve menu.	为“点曲线”菜单保存 RGB、红、绿、蓝曲线。
+Save…	保存…
+Saving stopped unexpectedly	保存意外停止
+Screen Mode	屏幕模式
+Scripts and AI	脚本与 AI
+Scroll	滚动
+Search	搜索
+Search filename, keyword, capture date or label	搜索文件名、关键词、拍摄日期或色标
+Search presets	搜索预设
+Searched the presets that fit this camera only.	仅搜索了适用于此相机的预设。
+Searched your favorites only.	仅搜索了你的收藏。
+Select a correction to change it	选择要更改的校正
+Select a mask first	请先选择蒙版
+Select a photo to export	选择要导出的照片
+Select all	全选
+Select all in the filmstrip, for Sync	在胶片显示窗格中全选，以便同步
+Select none	全不选
+Select none in the filmstrip	取消胶片显示窗格中的全部选择
+Select the photos to sync with the active photo · {keys}	选择要与当前照片同步的照片 · {keys}
+Selecting…	正在选择…
+Selection cancelled	已取消选择
+Selection failed: {why}	选择失败：{why}
+Selection is unavailable here: {why}	此处无法选择：{why}
+Selection model installed	选择模型已安装
+Selection model removed	选择模型已移除
+Set Color Label	设置色标
+Set Copy as Master	将副本设为母版
+Set Flag	设置标记
+Set Rating	设置评分
+Set as Reference Photo	设为参考照片
+Set the mix from the photo's colors	按照片的颜色设置混合
+Set the tone sliders automatically · {shortcut}	自动设置色调滑块 · {shortcut}
+Set this mask's adjustments back to zero	将此蒙版的调整归零
+Settings copied	设置已复制
+Settings pasted	设置已粘贴
+Share	共享
+Share anonymous usage stats	共享匿名使用统计
+Sharpening Amount	锐化数量
+Show All Presets	显示所有预设
+Show Before · Backslash	显示修改前 · 反斜杠
+Show Edit	显示编辑
+Show Loupe	显示放大视图
+Show Overlay	显示叠加
+Show clipped shadows and highlights · J	显示溢出的阴影和高光 · J
+Show clipping	显示裁切警告
+Show highlight clipping · J shows both	显示高光裁切警告 · J 显示两者
+Show in Loupe	在放大视图中显示
+Show it	显示
+Show or hide this mask's effect	显示或隐藏此蒙版的效果
+Show shadow and highlight clipping	显示阴影和高光裁切警告
+Show shadow clipping · J shows both	显示阴影裁切警告 · J 显示两者
+Show the colors this swatch selects; everything else turns gray	显示此色板选中的颜色，其余部分变灰
+Show the photo in the Loupe	在放大视图中显示照片
+Show what was not exported	显示未导出的内容
+Show {name}	显示{name}
+Simple Copyright Watermark	简单版权水印
+Skip This Version	跳过此版本
+Smart Collections	智能集合
+Snapshot not applied: {e:#}	快照未应用：{e:#}
+Snapshot not saved: {e:#}	快照未保存：{e:#}
+Snapshot: {name}	快照：{name}
+Snapshots	快照
+Solo Mode	独奏模式
+Some export operations were not performed.	部分导出操作未执行。
+Sort	排序
+Sort the photos by	照片排序依据
+Specific folder	指定文件夹
+Split Left / Right	左右分割
+Split Top / Bottom	上下分割
+Spot	污点
+Spot Removal	污点修复
+Spot Removal: Heal and Clone · Q	污点修复：修复与仿制 · Q
+Standard Preview Size	标准预览尺寸
+Standard previews cleared	标准预览已清除
+Star rating	星级评分
+Star rating 0	星级评分 0
+Star rating 1	星级评分 1
+Star rating 2	星级评分 2
+Star rating 3	星级评分 3
+Star rating 4	星级评分 4
+Star rating 5	星级评分 5
+Start Number	起始编号
+Start a new catalog	新建目录
+Start over	重新开始
+Starting looks such as Adobe Color, for your cameras.	为你的相机提供 Adobe Color 等起始外观。
+Startup disk · {photos} photos{space_text}	启动磁盘 · {photos} 张照片{space_text}
+Status	状态
+Still reading metadata from files; try again when it's done	仍在从文件读取元数据；完成后请重试
+Stop selecting; the photo is left as it was	停止选择；照片保持原样
+Stop synchronizing	停止同步
+Stopped unexpectedly	意外停止
+Straighten along a line	沿直线拉直
+Style	样式
+Subtract	减去
+Supported protocol version is 1	支持的协议版本为 1
+Survey the selected photos	筛选所选照片
+Swap Before and After	交换修改前和修改后
+Swap Before and After Settings	交换修改前和修改后的设置
+Swap portrait and landscape · X	切换横向和纵向 · X
+Swap select and candidate	交换选中项和候选项
+Swap the crop's orientation	交换裁剪方向
+Sync Settings	同步设置
+Sync settings to the selected photos	将设置同步到所选照片
+Sync settings…	同步设置…
+Sync the active photo's settings to the selection	将当前照片的设置同步到所选照片
+Sync the active photo's settings to {photos} · {keys}	将当前照片的设置同步到 {photos} · {keys}
+Synchronization stopped	同步已停止
+Synchronize All Folders…	同步所有文件夹…
+Synchronize Folder could not start	同步文件夹无法启动
+Synchronize Folder failed: {e:#}	同步文件夹失败：{e:#}
+Synchronize Folder stopped unexpectedly	同步文件夹意外停止
+Synchronize “{}”	同步“{}”
+Synchronize and Remove {removing}	同步并移除 {removing}
+Synchronized, but the catalog could not be opened again: {e}. It was read again.	已同步，但目录无法再次打开：{e}。已重新读取。
+Synchronized, but the catalog could not be read again: {again:#}. Open it again.	已同步，但目录无法再次读取：{again:#}。请重新打开。
+Synchronizing “{}”	正在同步“{}”
+Take a photo out	移除照片
+Targeted adjustment: B&W mix	目标调整：黑白混合
+Targeted adjustment: Hue / Saturation / Luminance	目标调整：色相/饱和度/明亮度
+Targeted adjustment: Tone Curve	目标调整：色调曲线
+Temperature	色温
+Text Options	文字选项
+The Auto mix is applied	已应用自动混合
+The B&W mix adjusts black & white photos	黑白混合用于调整黑白照片
+The Color Mixer adjusts color photos; this one is black & white	颜色混合器用于彩色照片；这张是黑白照片
+The Setup Assistant finds Lightroom's own profiles and presets on this Mac.	设置助手会在这台 Mac 上查找 Lightroom 自带的配置文件和预设。
+The autosave thread stopped	自动保存线程已停止
+The catalog changed during the scan; synchronize again	扫描期间目录已更改；请再次同步
+The catalog changed since the scan; synchronize again	目录自扫描后已更改；请再次同步
+The chosen theme is missing; the last one stays until it is back.	所选主题缺失；主题恢复前将沿用上一个。
+The command did not start in time and was cancelled	命令未能及时启动，已取消
+The command queue is full	命令队列已满
+The first selection on a photo takes a few seconds; the next ones are quick	首次选择照片需要几秒钟；之后会很快
+The folders changed meanwhile; add the folder again	期间文件夹已更改；请重新添加文件夹
+The following files already exist.	以下文件已存在。
+The masks changed while selecting; nothing was added	选择期间蒙版已更改；未添加任何内容
+The original may be offline, damaged, or have no usable embedded preview.	原文件可能离线、损坏，或没有可用的内嵌预览。
+The output job does not exist or has expired	输出任务不存在或已过期
+The photo changed while sampling; pick the color again	取样期间照片已更改；请重新取色
+The photo is still loading	照片仍在加载
+The photo or edit changed; read state again	照片或编辑已更改；请重新读取状态
+The photos the last Add Photo Folder or Synchronize added	上次“添加照片文件夹”或“同步”添加的照片
+The preset name is empty	预设名称为空
+The preview could not be built	无法构建预览
+The reference photo stays when you leave Develop	离开显影时将保留参考照片
+The sampled color, and the color the swatch turns it into	取样的颜色，以及色板将其转换成的颜色
+The selection model is not installed	选择模型未安装
+The themes folder could not be read.	无法读取主题文件夹。
+The themes folder has too many files; some are not listed.	主题文件夹中的文件过多；部分未列出。
+The update is no longer ready	更新已不再就绪
+The zoomed view could not be built	无法构建缩放视图
+Theme	主题
+These shortcuts	这些快捷键
+Thirds	三分法
+This computer	此计算机
+This edit is protected and cannot be changed here	此编辑受保护，无法在此更改
+This input is already assigned to another enabled device	此输入已分配给另一个启用的设备
+This parameter is not available on masks	此参数不适用于蒙版
+This photo's masks use too much memory for another selection	这张照片的蒙版占用内存过多，无法再次选择
+This profile has no Amount	此配置文件没有数量
+This shortcut has no application action	此快捷键没有对应的应用操作
+Threshold	阈值
+Thumbnails	缩略图
+Tint	色调
+Title	标题
+Title, caption, creator, copyright, rating, label and keywords	标题、说明、创作者、版权、评分、色标和关键词
+Toggle pick	切换留用
+Toggle zoom	切换缩放
+Toggle zoom / fit	切换缩放/适合
+Too many red eye corrections on this photo	这张照片的红眼校正过多
+Too many spots on this photo	这张照片的污点过多
+Totals	总计
+Treatment	处理方式
+Triangle	三角形
+Try Again	重试
+Try again	重试
+Try another name or group.	试试其他名称或分组。
+Turn speed	转动速度
+Turn the filters back on ({toggle_keys})	重新开启筛选（{toggle_keys}）
+Turn the filters off / on	关闭/开启筛选
+Turn {title} off	关闭{title}
+Turn {title} on	开启{title}
+Turned off by the {variable} environment variable.	已由环境变量 {variable} 关闭。
+Two output jobs are already running	已有两个输出任务在运行
+Type	类型
+Undo / redo, anywhere	在任意位置撤销/重做
+Undo · Ctrl+Z	撤销 · Ctrl+Z
+Unflag	取消标记
+Unknown	未知
+Unknown action; use capabilities to list supported actions	未知操作；请用 capabilities 列出支持的操作
+Unknown parameter	未知参数
+Unknown photo	未知照片
+Unpin {title}: it scrolls with the panels	取消固定{title}：它将随面板一起滚动
+Unrated	未评分
+Unrated photos only	仅未评分照片
+Up / Down	上 / 下
+Up Arrow	上方向键
+Update Default	更新默认值
+Update available	有可用更新
+Updates	更新
+Upgrade catalog…	升级目录…
+Upgrade this catalog	升级此目录
+Upright is still analysing it	自动校正仍在分析
+Upright: the analysis failed unexpectedly	自动校正：分析意外失败
+Usage stats	使用统计
+Use Unique Names	使用唯一名称
+Use an explicit band channel, such as band3.sat	使用明确的波段通道，例如 band3.sat
+Use camera exposure baseline	使用相机曝光基准
+Use sRGB	使用 sRGB
+Variance	方差
+Vibrance	鲜艳度
+Vignetting	暗角
+Virtual copies are never read from files	虚拟副本从不从文件读取
+Virtual copy failed: {e:#}	虚拟副本失败：{e:#}
+Virtual copy not removed: {e:#}	虚拟副本未移除：{e:#}
+Visualize Range	可视化范围
+Visualize Spots	可视化污点
+Visualize spots	可视化污点
+Wait for Sync Settings to finish before updating	请等同步设置完成后再更新
+Wait for {work} to finish before closing.	请等{work}完成后再关闭。
+Watermark Editor	水印编辑器
+Watermark Effects	水印效果
+Watermark Style	水印样式
+Watermark image not found	未找到水印图像
+Watermark name	水印名称
+Watermark:	水印：
+Watermarking	水印
+What’s sent:	发送内容：
+When the overlay shows: always, with the pointer over the photo, or never	叠加显示时机：始终显示、指针位于照片上时，或从不
+Where it was added; not located on this computer	添加位置；不在这台计算机上
+Which folder of the catalog is this?	这是目录中的哪个文件夹？
+White Balance	白平衡
+White balance selector (W): click a neutral area of the photo	白平衡吸管（W）：单击照片中的中性区域
+White point	白场
+Working…	正在处理…
+Wrong token; read control.json	令牌错误；请读取 control.json
+Your develop presets, in their groups.	你的显影预设，按分组显示。
+Zoom in / out	放大/缩小
+ⓘ  {} could not be checked here, so nothing in {} counts as missing.	ⓘ  {} 无法在此处检查，因此 {} 中的内容都不会被视为缺失。
+ⓘ  {} no longer on disk {} removed from the catalog once {} no photos.	ⓘ  {} 已不在磁盘上 {} 在 {} 中没有照片后从目录中移除。
+a camera profile; import it under Camera profiles	相机配置文件；请通过“相机配置文件”导入
+a preset, not a profile	属于预设，不是配置文件
+can't be exported: {why}	无法导出：{why}
+could not create {}: {e}	无法创建 {}：{e}
+could not download the model: {last}	无法下载模型：{last}
+could not read {}: {e}	无法读取 {}：{e}
+could not record the install: {e}	无法记录安装：{e}
+could not start the selection thread: {e}	无法启动选择线程：{e}
+could not write in {}: {e}	无法写入 {}：{e}
+it could not be kept: {e:#}	无法保留：{e:#}
+it is larger than a preview can be ({JPEG_LIMIT} pixels a side)	尺寸超过预览上限（每边 {JPEG_LIMIT} 像素）
+its Lightroom edit is still being applied	其 Lightroom 编辑仍在应用
+its edit is protected, as the file changed since it was saved	其编辑受保护，因为文件自保存后已更改
+its settings can't be read to sync from: {e:#}	无法读取其设置以进行同步：{e:#}
+its {n} photos	其 {n} 张照片
+not a lens profile: {e:#}	不是镜头配置文件：{e:#}
+not a preset: {e:#}	不是预设：{e:#}
+not started, export cancelled	未开始，导出已取消
+probably the same, not verified	可能相同，未验证
+same content, renamed	内容相同，已重命名
+skipped, {reason}	已跳过，{reason}
+stays missing; these files are offered again next time	仍然缺失；这些文件下次会再次提供
+stopped unexpectedly: {message}	意外停止：{message}
+the Sync failed unexpectedly	同步意外失败
+the file changed during the Sync	文件在同步期间已更改
+the installed model is not usable: {why}	已安装的模型不可用：{why}
+the preview cache can't be opened	无法打开预览缓存
+the remote worker: {why}	远程工作进程：{why}
+the source photo has no aperture, shutter speed or ISO	源照片没有光圈、快门速度或 ISO
+{already} already imported	已导入 {already} 个
+{choice} pixels	{choice} 像素
+{count} of {}	{} 中的 {count} 个
+{failed} skipped	已跳过 {failed} 个
+{how} · in {}	{how} · 位于 {}
+{label} a brush, gradient or range	{label} 画笔、渐变或范围
+{name} Amount	{name} 数量
+{name} Hue	{name} 色相
+{name} can't be exported: {why}	{name} 无法导出：{why}
+{name} could not be added to the Library	无法将 {name} 添加到图库
+{name} could not be added to the Library · {why}	无法将 {name} 添加到图库 · {why}
+{name} · not rendered: {}	{name} · 未渲染：{}
+{name}: 	{name}：
+{n} found for {makers} and third-party lenses	为 {makers} 和第三方镜头找到 {n} 个
+{n} guides	{n} 条参考线
+{n} photos	{n} 张照片
+{n} photos · {what}	{n} 张照片 · {what}
+{n}: drag up or down · double-click to reset	{n}：上下拖动 · 双击重置
+{rating} stars	{rating} 星
+{read} of {masters} photos	{read} / {masters} 张照片
+{reason} images can't be edited in Develop	{reason} 张图像无法在显影中编辑
+{size} pixels	{size} 像素
+{star} stars · {star} key · click again to clear	{star} 星 · {star} 键 · 再次单击可清除
+{step} Hue & Saturation	{step} 色相与饱和度
+{still_missing} still missing	仍缺失 {still_missing}
+{verb} Quick Collection · {}	{verb}快速集合 · {}
+{work} A large catalog takes a few minutes.	{work} 较大的目录需要几分钟。
+{} won't be exported: {reasons}	{} 不会被导出：{reasons}
+{} · exported files not shown: {e:#}	{} · 未显示已导出的文件：{e:#}
+{} · showing {} of the {folders} folders exported to	{} · 显示导出到的 {folders} 个文件夹中的 {}
+{} · {photos} photos{space_text}	{} · {photos} 张照片{space_text}
+{}: {badge}	{}：{badge}
+{}: {reason}	{}：{reason}
+{}\nNot fully compatible: {issue}\nClick to apply the supported settings	{}\n不完全兼容：{issue}\n单击以应用受支持的设置
+▸ Ranges	▸ 范围
+▾ Ranges	▾ 范围
+the left panel	左侧面板
+the right panel	右侧面板
+the filmstrip	胶片显示窗格
+Presets and History	预设与历史记录
+the adjustments	调整面板
+1 photo	1 张照片
+{} photos	{} 张照片
+and {} more	以及另外 {} 项
+Importing {}…	正在导入 {}…
+Add {}	添加 {}
+OK	确定
+Open	打开
+New	新建
+Apply	应用
+Yes	是
+No	否
+Retry	重试
+Default	默认
+Custom	自定义
+All	全部
+None	无
+Auto	自动
+Basic	基本
+Exposure	曝光
+Contrast	对比度
+Highlights	高光
+Shadows	阴影
+Whites	白色色阶
+Blacks	黑色色阶
+Balance	平衡
+Blending	混合
+Color Hue	颜色色相
+Color Sat	颜色饱和度
+Dehaze	去朦胧
+Distortion	畸变
+Masking	蒙版
+Midpoint	中点
+Noise	噪点
+Offset X	X 偏移
+Offset Y	Y 偏移
+Roughness	粗糙度
+Sharpness	锐度
+Smoothness	平滑度
+Temp	色温
+Texture	纹理
+Cloudy	阴天
+Daylight	日光
+Flash	闪光灯
+Fluorescent	荧光灯
+Shade	阴影
+Tungsten	钨丝灯
+Add Red Eye Correction	添加红眼校正
+Invalid red eye correction	红眼校正无效
+Too many red eye corrections	红眼校正过多
+Pet	宠物
+JPEG	JPEG
+PNG	PNG
+TIFF	TIFF
+B&W	黑白
+WB	白平衡
+Creative	创意
+Curve	曲线
+Embedded	内嵌
+Linear	线性
+Scale	缩放
+HSL	HSL
+RGB	RGB
+GPS	GPS
+Detail	细节
+Effects	效果
+Transform	变换
+Calibration	校准
+Keywording	关键词
+Metadata	元数据
+Navigator	导航器
+Histogram	直方图
+Presets	预设
+Catalog	目录
+Folders	文件夹
+Collections	集合
+Quick Develop	快速显影
+Lens Corrections	镜头校正
+Tone Curve	色调曲线
+Color Mixer	颜色混合器
+Color Grading	颜色分级
+Split Toning	分离色调
+Presence	质感
+Black & White	黑白
+Treatment	处理方式
+Tint	色调
+Temperature	色温
+Hide the left panel · F7	隐藏左侧面板 · F7
+Show the left panel · F7	显示左侧面板 · F7
+Hide the right panel · F8	隐藏右侧面板 · F8
+Show the right panel · F8	显示右侧面板 · F8
+Hide the filmstrip · F6	隐藏胶片显示窗格 · F6
+Show the filmstrip · F6	显示胶片显示窗格 · F6
+Hide Presets and History	隐藏预设与历史记录
+Show Presets and History	显示预设与历史记录
+Hide the adjustments	隐藏调整面板
+Show the adjustments	显示调整面板
+Show in File Manager	在文件管理器中显示
+Reveal in Finder	在访达中显示
+Show in Explorer	在资源管理器中显示
+Fit • full quality • GPU • {} ms	适合 • 完整质量 • GPU • {} ms
+Opened in {}s	打开用时 {}s
+{} free	{} 可用
+1 / 1 photos	1 / 1 张照片
+Choose a folder and RAWmakase shows every photo in it and its subfolders. Photos stay where they are; nothing is copied, moved or changed.	选择一个文件夹，RAWmakase 会显示其中的所有照片及其子文件夹。照片仍留在原处；不会复制、移动或改动任何内容。
+RAWmakase reads RAW, DNG, JPEG, PNG and TIFF files. Add a folder that holds some, or find the folder again if it has moved.	RAWmakase 可读取 RAW、DNG、JPEG、PNG 和 TIFF 文件。添加包含这些文件的文件夹，或在文件夹移动后重新定位它。
+RAWmakase keeps your folders, ratings and edits in a catalog. Start one to add photos, or open a catalog you already have.	RAWmakase 把文件夹、评分和编辑保存在目录里。新建一个目录即可添加照片，或打开已有的目录。
+No photos in the {} added	{} 中没有添加任何照片
+Create a RAWmakase catalog or import a Lightroom catalog from the catalog menu above.	在上方目录菜单中新建 RAWmakase 目录，或导入 Lightroom 目录。
+Add your photos	添加你的照片
+This Computer	此计算机
+Select Sky	选择天空
+Select Subject	选择主体
+Select {}	选择{}
+1 folder	1 个文件夹
+{} folders	{} 个文件夹
+Folder added · {}	已添加文件夹 · {}
+Removed from	已移除自
+Sync Settings…	同步设置…
+Previews	预览
+Set Flag	设置标记
+Set Rating	设置评分
+Set Color Label	设置色标
+Add device	添加设备
+CANCELLED	已取消
+CANCEL	取消
+AUTO	自动
+AMOUNT	数量
+CATALOG	目录
+CUSTOM	自定义
+HUE	色相
+PROFILE	配置文件
+CHOOSE…	选择…
+DELETE	删除
+DONE	完成
+GREEN	绿色
+POINT COLOR	点颜色
+SATURATION	饱和度
+SHADOWS	阴影
+BLUE	蓝色
+CAMERA	相机
+COLOR	颜色
+DEVELOP	显影
+EXPORT…	导出…
+HIGHLIGHTS	高光
+LEFT / RIGHT	左 / 右
+LUMINANCE	明亮度
+NAVIGATOR	导航器
+PURPLE	紫色
+RED	红色
+REMOVE	移除
+SELECT	选择
+SIZE	大小
+YELLOW	黄色
+ARROWS	方向键
+AS SHOT	按拍摄设置
+BACK TO THE GRID	返回网格
+BACKGROUND	背景
+CAMERA PROFILES	相机配置文件
+CLEAR	清除
+COPY	复制
+CROP & STRAIGHTEN	裁剪与拉直
+EXPORT	导出
+EXPOSURE	曝光
+FEATHER	羽化
+GRID	网格
+HISTOGRAM	直方图
+IMPORTED	已导入
+MASKING	蒙版
+MATCH TOTAL EXPOSURES	匹配总曝光
+NAME	名称
+NO LABEL	无色标
+NONE	无
+OFFLINE	离线
+OPACITY	不透明度
+OPEN IN DEVELOP	在显影中打开
+PICK	选为留用
+PRESETS	预设
+QUICK COLLECTION	快速集合
+RED EYE	红眼
+RESET	重置
+SETTINGS	设置
+SHOW	显示
+STRAIGHTEN	拉直
+SUBJECT	主体
+UNFLAGGED	未标记
+USER PRESETS	用户预设
+ALL	全部
+ALL PHOTOGRAPHS	所有照片
+ALL CHANNELS	所有通道
+APPLY AUTO MIX WHEN FIRST CONVERTING TO BLACK AND WHITE	首次转换为黑白时应用自动混合
+AUTO TONE	自动色调
+BASIC	基本
+BEFORE	修改前
+BIT DEPTH	位深度
+BLACK & WHITE MIX	黑白混合
+BLACKS	黑色色阶
+BRUSH	画笔
+CAPTURE TIME	拍摄时间
+CHECKING…	正在检查…
+CHOOSE A FOLDER TO EXPORT TO	选择导出文件夹
+CHOOSE AN INPUT	选择输入
+CLOSE	关闭
+COLOR GRADING	颜色分级
+COLOR MIXER	颜色混合器
+COMPARE	比较
+COPY HISTORY STEP SETTINGS TO BEFORE	将历史步骤设置复制到修改前
+COPY NAME	复制名称
+COPYRIGHT	版权
+CREATE	新建
+CREATOR	创作者
+CURRENT CATALOG	当前目录
+DEFAULTS	默认值
+DELETE ALL SWATCHES	删除所有色板
+DELETE SWATCH	删除色板
+DETAIL	细节
+DEVELOP · D	显影 · D
+DISCARD 1:1 PREVIEWS	丢弃 1:1 预览
+DISMISS	忽略
+DO NOTHING	不做任何操作
+DOWN	下
+DOWNLOAD	下载
+EDITED	已编辑
+EXPORT WITH PREVIOUS	使用上次导出设置
+FILE NAME	文件名
+FIT	适合
+FOLDER	文件夹
+FOLDERS	文件夹
+GLOBAL	全局
+GUIDED	引导
+HIDE	隐藏
+HIDE / SHOW THE SIDE PANELS	隐藏/显示侧面板
+HISTORY	历史记录
+IMPORT FOLDER…	导入文件夹…
+IMPORT LENS PROFILES…	导入镜头配置文件…
+IMPORT FROM LIGHTROOM	从 Lightroom 导入
+INVALID PREVIEW SIZE	预览尺寸无效
+KEYBOARD SHORTCUTS	键盘快捷键
+LEFT	左
+LENS	镜头
+LENS PROFILES	镜头配置文件
+LIBRARY	图库
+LIBRARY GRID	图库网格
+LIGHTROOM CATALOG	Lightroom 目录
+LOCATION	位置
+LOUPE	放大视图
+LOWERCASE	小写
+LUM	亮度
+MAKE A PHOTO ACTIVE FOR RATING KEYS	先选中一张照片才能使用评分快捷键
+METADATA	元数据
+MIXER	混合器
+MOVE THE ACTIVE PHOTO	移动当前照片
+NEVER	从不
+NEW DEVELOP PRESET	新建显影预设
+NONE FOUND	未找到
+NOT NOW	暂不
+OFF	关
+OPEN A PHOTO IN DEVELOP FIRST	请先在显影中打开一张照片
+ORIENTATION	方向
+ORIGINAL	原始
+OTHER LABELS	其他色标
+PASTE SETTINGS	粘贴设置
+PICTURES	图片
+POINT CURVE	点曲线
+PREFERENCES	首选项
+PRESENCE	质感
+PRESETS AND HISTORY	预设与历史记录
+PREVIEWS	预览
+PREVIOUS / NEXT PHOTO	上一张/下一张
+PREVIOUS IMPORT	上次导入
+RANGE	范围
+RANGE HIGH	范围上限
+RATING	评分
+REDO	重做
+REFERENCE	参考
+REFINE	细化
+REJECT	排除
+REJECTED	已排除
+RENAME	重命名
+RESET ALL SETTINGS	重置所有设置
+RIGHT	右
+SAT	饱和度
+SAVE	保存
+SETUP	设置
+SHADOW	阴影
+SHADOW HUE	阴影色相
+SHARPENING	锐化
+SKIP	跳过
+SKY	天空
+SPOT REMOVAL	污点修复
+SURVEY	筛选
+SYNC SETTINGS…	同步设置…
+SYNCHRONIZE	同步
+SYNCHRONIZE FOLDER…	同步文件夹…
+SYNCHRONIZE SETTINGS	同步设置
+TEXT	文字
+TONE	色调
+TONE CURVE	色调曲线
+TOP / BOTTOM	上 / 下
+TRANSFORM	变换
+UNDO	撤销
+UP	上
+UPDATE	更新
+UPDATE WITH CURRENT SETTINGS	用当前设置更新
+UPPERCASE	大写
+UPRIGHT	自动校正
+VERTICAL	垂直
+WAIT FOR THE PREVIEW TO UPDATE, THEN PICK AGAIN	等预览更新后再重新取色
+WHITE BALANCE SELECTOR	白平衡吸管
+WHITES	白色色阶
+WORK STILL PENDING	仍有任务在进行
+ (INVERTED)	（反相）
+ / COPY	 / 副本
+ / COPY 1	 / 副本 1
++ LABEL	+ 添加色标
++ SAVES THE PHOTO AS IT IS NOW	+ 按当前状态保存照片
+100% • FULL QUALITY	100% • 完整质量
+16 BITS/COMPONENT, UNCOMPRESSED	16 位/通道，未压缩
+3-WAY	三向
+4 CHANGES FOUND IN 1,240 FILES	在 1,240 个文件中找到 4 处更改
+65 X 24 (XPAN)	65 × 24（XPan）
+A SMALLER LIMIT REMOVES OLDER ENTRIES ON THE NEXT CACHE WRITE.	较小的上限会在下次写入缓存时移除较早的条目。
+A SYNCHRONIZATION IS ALREADY RUNNING.	同步正在进行中。
+A: SHOW FINE DETAIL IN BLACK AND WHITE, SO DUST STANDS OUT	A：以黑白显示细节，让灰尘更明显
+AHD FOR BAYER SENSORS, MARKESTEIJN FOR X-TRANS.	Bayer 传感器用 AHD，X-Trans 用 Markesteijn。
+ABOUT	关于
+ABSOLUTE (0–127)	绝对值（0–127）
+ACTIVE	活动
+ADD	添加
+ADD CATCHLIGHT	添加眼神光
+ADD FOLDER…	添加文件夹…
+ADD GUIDE	添加参考线
+ADD PHOTO FOLDER…	添加照片文件夹…
+ADD SWATCH	添加色板
+ADD A CONTROL	添加控件
+ADD A FOLDER OF PHOTOS TO THIS CATALOG. PHOTOS STAY WHERE THEY ARE.	向此目录添加一个照片文件夹。照片仍保留在原位置。
+ADD BUTTON	添加按钮
+ADD DEVICE	添加设备
+ADD DIAL / SLIDER	添加旋钮/滑块
+ADD OR REMOVE A PHOTO	添加或移除照片
+ADD PHOTO FOLDER	添加照片文件夹
+ADD PHOTO FOLDER…	添加照片文件夹…
+ADD PHOTOS FIRST TO FIND THE ONES FOR YOUR CAMERAS	先添加照片，才能找出适合你相机的配置文件
+ADD PHOTOS IN THE LIBRARY TO START EDITING	在图库中添加照片即可开始编辑
+ADD THIS PHOTO TO A CATALOG TO USE AI MASKS	将此照片加入目录才能使用 AI 蒙版
+ADD TO FAVORITES	添加到收藏
+ADD TO OR TAKE OUT OF IT	加入或移出
+ADD YOUR PHOTOS	添加你的照片
+ADDED ORDER	添加顺序
+ADDED AS ADD PHOTO FOLDER ADDS THEM, WITH THEIR SIDECAR METADATA.	与“添加照片文件夹”相同，会连同附属元数据一起加入。
+ADDED TO	添加到
+ADJUST	调整
+ADOBE LENS PROFILES	Adobe 镜头配置文件
+ADVANCED CONNECTION	高级连接
+AFTER 30 DAYS	30 天后
+AFTER EXPORT	导出后
+AFTER ONE DAY	一天后
+AFTER ONE WEEK	一周后
+ALIGN	对齐
+ALL FOLDERS	所有文件夹
+ALLOW LOCAL SCRIPTS AND APPLICATIONS	允许本地脚本和应用程序
+ALWAYS	始终
+ANALYSE THE PHOTO AGAIN, E.G. AFTER CHANGING LENS CORRECTIONS	重新分析照片，例如在修改镜头校正之后
+ANCHOR	锚点
+ANGLE	角度
+APP DATA	应用数据
+APPLY AND GO TO THE NEXT PHOTO	应用并转到下一张
+APPLY THE ADJUSTMENT OUTSIDE THE MASK	在蒙版外应用调整
+AQUA	青色
+ARROW DOWN	下方向键
+ARROW UP	上方向键
+ASK WHAT TO DO	询问如何处理
+ASPECT	比例
+ASPECT RATIO	长宽比
+AUTO ADVANCE	自动前进
+AUTO MASK	自动蒙版
+AUTO SETTINGS	自动设置
+AUTO IS STILL WORKING ON IT	自动调整仍在处理
+AUTO SETTINGS ARE APPLIED	已应用自动设置
+AUTO STRAIGHTEN FOUND NO HORIZON OR VERTICALS TO LEVEL	自动拉直未找到可校正的地平线或垂直线
+AUTO STRAIGHTEN: THE ANALYSIS FAILED UNEXPECTEDLY	自动拉直：分析意外失败
+AUTOMATION	自动化
+AVAILABLE ONCE THE PHOTO HAS FINISHED DEVELOPING	照片显影完成后可用
+B ADDS THE SELECTED PHOTOS · ⌘B SHOWS THEM	B 将所选照片加入 · ⌘B 显示它们
+BACKING UP AND UPGRADING THE CATALOG…	正在备份并升级目录…
+BACKSLASH	反斜杠
+BEFORE / AFTER	修改前/修改后
+BEFORE / AFTER	修改前/修改后
+BEFORE AFTER	修改前后
+BEFORE ONLY	仅修改前
+BEFORE ALONE	仅显示修改前
+BEFORE AND AFTER, LEFT AND RIGHT	修改前后左右并列
+BEFORE AND AFTER, SPLIT	修改前后分割
+BEFORE AND AFTER, TOP AND BOTTOM	修改前后上下并列
+BEFORE/AFTER VIEWS · Y, OPTION+Y, SHIFT+Y	修改前/修改后视图 · Y、Option+Y、Shift+Y
+BLACK & WHITE	黑白
+BLACK & WHITE	黑白
+BLACK POINT	黑场
+BLUE PRIMARY	蓝色原色
+BRING OVER YOUR LIGHTROOM LIBRARY	迁移你的 Lightroom 图库
+BRING OVER YOUR LIGHTROOM LIBRARY…	迁移你的 Lightroom 图库…
+BRUSH OR RED EYE SIZE (SHIFT: FEATHER)	画笔或红眼大小（Shift：羽化）
+BRUSH OR RED EYE SIZE OVER THE PHOTO (SHIFT: FEATHER)	在照片上调整画笔或红眼大小（Shift：羽化）
+BUILD 1:1 PREVIEWS	构建 1:1 预览
+BUILD STANDARD-SIZED PREVIEWS	构建标准尺寸预览
+BUTTONS	按钮
+CACHE SIZE LIMIT	缓存大小上限
+CALIBRATION	校准
+CAMERA AND CAPTURE INFO (EXIF)	相机与拍摄信息（EXIF）
+CAMERA PREVIEW • DEVELOPING RAW…	相机预览 • 正在显影 RAW…
+CANCEL DOWNLOAD	取消下载
+CANCEL EXPORT	取消导出
+CANCEL IT AND CLOSE	取消并关闭
+CANDIDATE	候选项
+CANNOT SET THE FRINGE COLOR: CLICK A PURPLE OR GREEN FRINGE	无法设置边缘颜色：请单击紫色或绿色边缘
+CAPTION	说明
+CATALOG READY. ADD A FOLDER OF PHOTOS TO BEGIN.	目录已就绪。添加一个照片文件夹即可开始。
+CATALOG SIZE	目录大小
+CATALOG: OPEN, CREATE OR IMPORT	目录：打开、新建或导入
+CATALOGS	目录
+CENTER	居中
+CHANGE THE CANDIDATE	更换候选项
+CHANGE…	更改…
+CHECK ALL	全选
+CHECK NONE	全不选
+CHECK NOW	立即检查
+CHECK FOR UPDATES AUTOMATICALLY	自动检查更新
+CHECKING INSTALLED PRESETS…	正在检查已安装预设…
+CHECKSUMS	校验和
+CHOOSE PROFILE…	选择配置文件…
+CHOOSE A NEW NAME FOR THE EXPORTED FILE	为导出文件选择新名称
+CHOOSE ONE OR MORE .XMP PRESETS	选择一个或多个 .xmp 预设
+CLARITY	清晰度
+CLEAR 1:1 PREVIEWS	清除 1:1 预览
+CLEAR GUIDES	清除参考线
+CLEAR OVERRIDES	清除覆盖
+CLEAR SEARCH	清除搜索
+CLEAR STANDARD PREVIEWS	清除标准预览
+CLEAR IT	清除
+CLEARED QUICK COLLECTION	已清空快速集合
+CLICK A SPOT TO REMOVE IT · DRAG TO PAINT · ⌘/CTRL-DRAG TO PICK THE SOURCE	单击一处即去除 · 拖动涂抹 · ⌘/Ctrl 拖动选取源
+CLICK OR DRAG TO INSPECT THAT AREA	单击或拖动以检查该区域
+CLICK THE DROPPER, THEN A COLOR IN THE PHOTO	单击吸管，然后在照片上点选颜色
+CLICK THE PART OF THE PHOTO TO ADD, ALT-CLICK TO LEAVE OUT	单击要添加的照片区域，Alt 单击可排除
+CLICK THE PHOTO TO PICK A COLOUR	单击照片取色
+CLICK THE PHOTO TO SELECT TONES LIKE THE ONE THERE	单击照片选取与之相近的色调
+CLICK THE SUBJECT ON THE PHOTO, OR DRAG A BOX AROUND IT	单击照片中的主体，或拖动框选
+CLICK THE SUBJECT…	单击主体…
+CLICK TO ADD · DRAG TO SHAPE · RIGHT-CLICK TO REMOVE	单击添加 · 拖动调整形状 · 右键移除
+CLICK TO APPLY · RIGHT-CLICK TO UPDATE, RENAME OR DELETE	单击应用 · 右键更新、重命名或删除
+CLICK TO SELECT · DOUBLE-CLICK TO RENAME	单击选择 · 双击重命名
+CLIPPING	裁切警告
+CLONE	仿制
+CLOSE MASKING · SHIFT+W OR ESCAPE	关闭蒙版 · Shift+W 或 Esc
+CLOSE ANYWAY	仍然关闭
+CLOSE THE TOOL	关闭工具
+CLOSE THE TOOL · Q	关闭工具 · Q
+CLOSE WITHOUT SAVING	不保存并关闭
+CLOSE · ESC	关闭 · Esc
+COLLECTION	集合
+COLLECTIONS	集合
+COLOR MIXER: HUE	颜色混合器：色相
+COLOR MIXER: LUMINANCE	颜色混合器：明亮度
+COLOR MIXER: SATURATION	颜色混合器：饱和度
+COLOR RANGE	颜色范围
+COLOR SPACE	色彩空间
+COME BACK ANY TIME FROM THE CATALOG MENU.	随时可以从目录菜单返回。
+COMING FROM LIGHTROOM CLASSIC?	从 Lightroom Classic 迁移？
+COMPACT CELLS	紧凑单元格
+COMPARE THE ACTIVE PHOTO WITH THE NEXT	将当前照片与下一张比较
+COMPATIBLE	兼容
+COMPATIBLE SHOWS THE PRESETS THIS PHOTO CAN TAKE IN FULL.	“兼容”显示这张照片可以完整应用的预设。
+CONNECTED	已连接
+CONSTRAIN CROP	限制裁剪
+CONTINUE	继续
+CONTRAST	对比度
+CONTROL DIAL	控制旋钮
+CONTROL FORMAT	控制格式
+CONTROL MAPPINGS	控制映射
+CONVERT TO BLACK & WHITE	转换为黑白
+CONVERT TO COLOR	转换为彩色
+CONVERT TO BLACK & WHITE OR BACK TO COLOR	转换为黑白或变回彩色
+CONVERT TO BLACK & WHITE OR COLOR	转换为黑白或彩色
+CONVERTING TO BLACK & WHITE ONCE THE PHOTO IS DECODED	照片解码后转换为黑白
+COPIES	副本
+COPY / PASTE SETTINGS	复制/粘贴设置
+COPY AFTER'S SETTINGS TO BEFORE	将“修改后”的设置复制到“修改前”
+COPY BEFORE TO AFTER / AFTER TO BEFORE	在修改前与修改后之间复制
+COPY BEFORE'S SETTINGS TO AFTER	将“修改前”的设置复制到“修改后”
+COPY FILE PATH	复制文件路径
+COPY SETTINGS	复制设置
+COPY SETTINGS…	复制设置…
+COPY SNAPSHOT SETTINGS TO BEFORE	将快照设置复制到修改前
+COPY SETTINGS…	复制设置…
+COPY, PASTE AND SYNC SETTINGS, PRESETS AND EXPORT	复制、粘贴和同步设置、预设与导出
+COULD NOT START LOCAL ACCESS	无法启动本地访问
+COULDN’T REACH GITHUB.	无法连接 GitHub。
+COULDN’T SAVE YOUR ANSWER, SO IT WASN’T CHANGED.	你的选择无法保存，因此未做更改。
+COULDN’T SAVE YOUR ANSWER. TRY AGAIN.	你的选择无法保存，请重试。
+CREATE DEFAULT	创建默认
+CREATE VIRTUAL COPY	创建虚拟副本
+CREATE A MASK, OR CLICK A PIN ON THE PHOTO TO SELECT ONE. SHIFT+W CLOSES.	新建蒙版，或单击照片上的图钉选择蒙版。Shift+W 可关闭。
+CREATE VIRTUAL COPY	创建虚拟副本
+CROP & STRAIGHTEN · R	裁剪与拉直 · R
+CURRENT VERSION	当前版本
+CURVE NAME	曲线名称
+CUSTOM MIDI DEVICE	自定义 MIDI 设备
+CUSTOM TEXT	自定义文字
+CUSTOM MODE	自定义模式
+CYCLE PHOTO INFO	循环切换照片信息
+CYCLE THE GRID CELL STYLE	循环切换网格单元格样式
+DARKEN	压暗
+DARKS	暗部
+DECIDE LATER	稍后决定
+DECODED IMAGES	已解码图像
+DECODED PHOTO CACHE	已解码照片缓存
+DEFAULT	默认
+DEFAULT (CAMERA MATRIX)	默认（相机矩阵）
+DEFRINGE	去边缘
+DELETE GUIDE	删除参考线
+DELETE REMOVES THE SELECTED CORRECTION	删除可移除所选校正
+DELETE THE SELECTED SPOT, GUIDE OR RED EYE	删除所选污点、参考线或红眼
+DELETE THIS MASK · DELETE	删除此蒙版 · Delete
+DELETE THIS WATERMARK AND ITS IMAGE	删除此水印及其图像
+DEMOSAIC	去马赛克
+DENSITY	密度
+DESELECT THE ACTIVE PHOTO	取消选中当前照片
+DESKTOP	桌面
+DEVELOP PRESETS	显影预设
+DEVELOP SETTINGS (CAMERA RAW XMP)	显影设置（Camera Raw XMP）
+DEVICE SETTINGS	设备设置
+DIAGONAL	对角线
+DIALS AND FADERS	旋钮和推子
+DIMENSIONS	尺寸
+DISABLED	已禁用
+DISCARD STANDARD AND 1:1 PREVIEWS	丢弃标准预览和 1:1 预览
+DISPLAY	显示
+DISPLAY: CUSTOM ICC (DISABLE COMPOSITOR ICC CONVERSION)	显示：自定义 ICC（禁用合成器 ICC 转换）
+DISPLAY: CUSTOM ICC (MANUAL MONITOR CONVERSION)	显示：自定义 ICC（手动显示器转换）
+DISPLAY: SRGB (COMPOSITOR MAY MANAGE THE MONITOR)	显示：sRGB（合成器可管理显示器）
+DISPLAY: SRGB (MANAGED BY MACOS)	显示：sRGB（由 macOS 管理）
+DISTORTION	畸变
+DISTORTION AND VIGNETTING CORRECTIONS FOR YOUR LENSES.	为你使用的镜头校正畸变和暗角。
+DON’T SHARE	不共享
+DOWNLOADING…	正在下载…
+DRAFT • REFINING	草稿 • 正在细化
+DRAG ALONG A HORIZON OR VERTICAL TO LEVEL IT · OR CMD-DRAG ON THE PHOTO	沿地平线或垂直线拖动以校正 · 或在照片上按 Cmd 拖动
+DRAG ON THE PHOTO FROM THE CENTRE OUTWARD	从照片中心向外拖动
+DRAG ON THE PHOTO TO DRAW THE GRADIENT	在照片上拖动以绘制渐变
+DRAG THE CATCHLIGHT TO PLACE IT	拖动眼神光以放置
+DRAG THE CENTRE TO MOVE IT, THE EDGE HANDLES TO SIZE AND TURN IT	拖动中心移动，拖动手柄调整大小并旋转
+DRAG THE ENDS TO SIZE AND TURN IT, THE MIDDLE TO MOVE IT	拖动两端调整大小并旋转，拖动中间移动
+DRAG THE FRAME ON THE PHOTO; CHANGES APPLY LIVE.	在照片上拖动边框，更改会实时应用。
+DRAG THE OUTER OR INNER POINTS · DOUBLE-CLICK TO RESET	拖动外侧或内侧控制点 · 双击重置
+DRAW	绘制
+DRAW UP TO FOUR GUIDES ALONG VERTICALS AND HORIZONTALS · SHIFT+T	沿垂直线和水平线绘制最多四条参考线 · Shift+T
+DROP A CATALOG TO OPEN IT	将目录拖放到此处以打开
+DROP SHADOW	投影
+DUPLICATE	创建副本
+E / RETURN / DOUBLE-CLICK	E / Return / 双击
+EDIT	编辑
+EDIT TIME	编辑时间
+EDIT WATERMARKS…	编辑水印…
+EDITS COULD NOT BE SAVED. RETRY OR SAVE A PRESET BEFORE CLOSING.	编辑未能保存。请重试，或在关闭前保存预设。
+EFFECTS	效果
+EMPTY	空
+ENABLE PROFILE CORRECTIONS	启用配置文件校正
+ENABLED	已启用
+ENGINE	引擎
+ERASE	擦除
+ESC	Esc
+ESCAPE	Escape
+EVERYWHERE	所有位置
+EXAMPLE	示例
+EXECUTION STARTED BUT THE REPLY TIMED OUT; INSPECT STATE BEFORE RETRYING	执行已开始但回复超时；重试前请先检查状态
+EXISTING FILES	现有文件
+EXPANDED CELLS	展开单元格
+EXPERIMENTAL · EARLY VERSION	实验性 · 早期版本
+EXPORT LOCATION	导出位置
+EXPORT ONE FILE	导出单个文件
+EXPORT TO	导出到
+EXPORT CANCELLED	导出已取消
+EXPORT THE SELECTED PHOTOS · CTRL+SHIFT+E	导出所选照片 · Ctrl+Shift+E
+EXPORT THE SELECTED PHOTOS · ⇧⌘E	导出所选照片 · ⇧⌘E
+EXPORT WITH PREVIOUS	使用上次导出设置
+EXPORTED 148 OF 150 · 2 NOT EXPORTED · 1 WITH NOTES	已导出 148/150 · 2 个未导出 · 1 个有备注
+EXPORTED, WITH NOTES	已导出，含备注
+EXPORTING 24 / 150	正在导出 24 / 150
+EXTEND THE SELECTION	扩展选择
+EXTENSIONS	扩展名
+EXTERNAL CONTROL IS DISABLED	外部控制已禁用
+FADER P1	推子 P1
+FADER P2	推子 P2
+FADER P3	推子 P3
+FADER P4	推子 P4
+FADER P5	推子 P5
+FADER P6	推子 P6
+FADER P7	推子 P7
+FADER P8	推子 P8
+FALLOFF HIGH	衰减上限
+FALLOFF LOW	衰减下限
+FASTER, WITH EQUAL OR BETTER DETAIL.	更快，细节相当或更好。
+FILE EXTENSION	文件扩展名
+FILE NAMING	文件命名
+FILE SETTINGS	文件设置
+FILES…	文件…
+FILL	填充
+FILTERS OFF	筛选已关闭
+FIND MISSING FOLDER ON THIS COMPUTER	在此计算机上查找缺失的文件夹
+FINISH CROPPING · ENTER OR R	完成裁剪 · Enter 或 R
+FINISH EXPORTING BEFORE UPDATING	更新前请先完成导出
+FINISH THE CROP	完成裁剪
+FINISH WHAT IS RUNNING FIRST, THEN SYNCHRONIZE.	请先完成正在运行的任务，然后再同步。
+FIRST / LAST PHOTO	第一张/最后一张
+FIT OR THE LAST ZOOM	适合或上次缩放
+FIT • FULL QUALITY	适合 • 完整质量
+FLAG	标记
+FLAGGED	已标记
+FLIP H	水平翻转
+FLIP V	垂直翻转
+FLOW	流量
+FN	Fn
+FOCAL LENGTH	焦距
+FOLD / OPEN PRESETS AND HISTORY	折叠/展开预设与历史记录
+FOLDER LOCATIONS	文件夹位置
+FOLDERS COME WITH THEIR SUBFOLDERS. PHOTOS STAY WHERE THEY ARE.	文件夹会连同子文件夹一起加入。照片仍保留在原位置。
+FOLDERS, COLLECTIONS, RATINGS, FLAGS, LABELS, KEYWORDS AND EDITS.	文件夹、集合、评分、标记、色标、关键词和编辑。
+FOLDER…	文件夹…
+FONT	字体
+FOR PHOTOS ADDED FROM FOLDERS, WHEN NEITHER THE FILE NOR ITS SIDECAR HAS ONE.	对于从文件夹添加的照片，当文件及其附属文件都没有此项时使用。
+FORGET THE CLICKS; THE NEXT CLICK SELECTS AFRESH	忘掉这些点击；下次单击将重新开始选择
+FORGET THIS LOCATION ON THIS COMPUTER	在此计算机上忘记该位置
+FORMAT	格式
+FOUND	已找到
+FREE	空闲
+FRINGE COLOR SELECTOR: CLICK A PURPLE OR GREEN FRINGE IN THE PHOTO	边缘颜色吸管：单击照片中的紫色或绿色边缘
+FROM LIGHTROOM	来自 Lightroom
+FULL	完整
+G / ESC / DOUBLE-CLICK	G / Esc / 双击
+GENERAL	常规
+GOLDEN RATIO	黄金比例
+GOLDEN SPIRAL	黄金螺旋
+GRADING WHEEL: FINE ADJUSTMENT	分级色轮：精细调整
+GRADING WHEEL: HUE OR SATURATION ONLY	分级色轮：仅色相或饱和度
+GRAIN	颗粒
+GRAPHIC	图形
+GREEN PRIMARY	绿色原色
+GROUP	组
+GUIDED UPRIGHT	引导式自动校正
+GUIDED UPRIGHT TAKES FOUR GUIDES; DELETE ONE TO DRAW ANOTHER	引导式自动校正需要四条参考线；删除一条才能再画一条
+GUIDED UPRIGHT: DRAW GUIDES	引导式自动校正：绘制参考线
+GUIDES	参考线
+HANDLED BY THE IMPORT CHOOSERS	由导入选择器处理
+HAS LIGHTROOM EDITS	含 Lightroom 编辑
+HEAL	修复
+HELP	帮助
+HELP MAKE RAWMAKASE BETTER	帮助改进 RAWmakase
+HIDE / SHOW ALL PANELS	隐藏/显示所有面板
+HIDE / SHOW THE SIDE PANELS AND FILMSTRIP	隐藏/显示侧面板和胶片显示窗格
+HIDE EDIT	隐藏编辑
+HIDE PINS	隐藏图钉
+HIDE SPOT PINS	隐藏污点图钉
+HIGHLIGHT	高光
+HOLD ALT	按住 Alt
+HOLD COMMAND	按住 Command
+HOLD SHIFT	按住 Shift
+HOME / END	Home / End
+HORIZONTAL	水平
+HOVER A PRESET AND CLICK ITS ★ TO KEEP IT HERE.	将鼠标悬停在预设上并单击其 \u{2605} 将其保留在此处。
+HOW THE RATING COMPARES	评分如何比较
+HUE RANGE	色相范围
+HUE SHIFT	色相偏移
+HUE, SAT AND LUM RANGE	色相、饱和度与明亮度范围
+ICC PROFILE	ICC 配置文件
+ISO SPEED	ISO 感光度
+IMAGE	图像
+IMAGE FORMAT	图像格式
+IMAGE OPTIONS	图像选项
+IMAGE SIZING	图像尺寸
+IMPORT	导入
+IMPORT ADOBE BASE PROFILE	导入 Adobe 基础配置文件
+IMPORT ADOBE PROFILES FOR THIS CAMERA	为此相机导入 Adobe 配置文件
+IMPORT LIGHTROOM CATALOG…	导入 Lightroom 目录…
+IMPORT LIGHTROOM PRESETS (.XMP)	导入 Lightroom 预设（.xmp）
+IMPORT PRESETS…	导入预设…
+IMPORT PRESET…	导入预设…
+IMPORT PROFILES…	导入配置文件…
+IMPORT EVERY .LCP LENS PROFILE IN A FOLDER AND ITS SUBFOLDERS	导入文件夹及其子文件夹中的全部 .lcp 镜头配置文件
+IMPORT EVERY DCP PROFILE AND XMP LOOK IN A FOLDER AND ITS SUBFOLDERS	导入文件夹及其子文件夹中的全部 DCP 配置文件和 XMP 外观
+IMPORT EVERY PRESET IN A FOLDER AND ITS SUBFOLDERS	导入文件夹及其子文件夹中的所有预设
+IMPORT FROM A FOLDER (AND ITS SUBFOLDERS) OR CHOSEN FILES	从文件夹（及其子文件夹）或指定文件导入
+IMPORT PROFILES FROM FOLDER…	从文件夹导入配置文件…
+IMPORT PROFILES…	导入配置文件…
+IMPORTED 40 PRESETS · 3 ALREADY IMPORTED · 2 SKIPPED	已导入 40 个预设 · 3 个已导入过 · 2 个已跳过
+IMPORTING…	正在导入…
+INCLUDE	包含
+INCLUDE LOCATION INFO	包含位置信息
+INPUT	输入
+INSET	内嵌
+INSTALLED	已安装
+INTERFACE	界面
+INTERSECT	交集
+INVERT	反相
+INVERT COMPONENT	反相分量
+ITS HISTORY IS FROM A NEWER RAWMAKASE	其历史记录来自更新版本的 RAWmakase
+ITS CATALOG, CAMERA AND LENS PROFILES AND PRESETS	其目录、相机和镜头配置文件与预设
+KEEP OVERRIDES	保留覆盖
+KEEP EDITING	继续编辑
+KEEP THE BRUSH WITHIN AREAS LIKE THE COLOUR UNDER ITS CENTRE	将画笔限制在中心颜色相近的区域内
+KEEP THE FOLDERS LOCATED SEPARATELY?	保留文件夹在其他位置？
+KEEP THE REFERENCE PHOTO WHEN YOU LEAVE DEVELOP	离开显影时保留参考照片
+KEEPS DECODED RAWS FOR FASTER REOPENING. SHARED BY ALL CATALOGS; DEFAULT 4 GIB.	缓存已解码的 RAW 以加快重新打开。所有目录共用；默认 4 GiB。
+KEYWORD REMOVED	已移除关键词
+KEYWORDING	关键词
+KEYWORDS	关键词
+KEYWORDS ADDED	已添加关键词
+KIND	类型
+LABEL COLOR	色标颜色
+LABEL TEXT	色标文字
+LABEL BLUE	蓝色色标
+LABEL GREEN	绿色色标
+LABEL RED	红色色标
+LABEL YELLOW	黄色色标
+LAST INPUT	最后输入
+LEFT ARROW	左方向键
+LEFT PANEL / RIGHT PANEL / FILMSTRIP	左侧面板/右侧面板/胶片显示窗格
+LENS CORRECTIONS	镜头校正
+LEVEL	水平
+LEVEL THE PHOTO AS UPRIGHT'S LEVEL WOULD, BY ITS ANGLE ALONE	仅按角度将照片调平，与自动校正中的“水平”一致
+LEVELS	色阶
+LIBRARY · G	图库 · G
+LIGHTROOM EDIT APPLIED	已应用 Lightroom 编辑
+LIGHTROOM PRESETS	Lightroom 预设
+LIGHTROOM'S FOLDERS AREN'T ON THIS COMPUTER	Lightroom 的文件夹不在这台计算机上
+LIGHTS	灯光
+LINEAR GRADIENT	线性渐变
+LISTEN TO THIS DEVICE	监听此设备
+LOAD PRESET FILE…	加载预设文件…
+LOADING FONTS…	正在加载字体…
+LOADING FULL RESOLUTION…	正在加载完整分辨率…
+LOADING PHOTO…	正在加载照片…
+LOADING THEMES…	正在加载主题…
+LOADING…	正在加载…
+LOCAL ACCESS	本地访问
+LOCATE ROOT FOLDER…	定位根文件夹…
+LOCATE THIS FOLDER…	定位此文件夹…
+LOCATED ON THIS COMPUTER	位于此计算机
+LOCATION CLEARED	已清除位置
+LOCATIONS	位置
+LOCK	锁定
+LOOKING…	正在查找…
+LOWER / RAISE THE RATING	降低/提高评分
+LUM RANGE	明亮度范围
+LUM SHIFT	明亮度偏移
+LUMINANCE RANGE	明亮度范围
+MCP SETUP · MACOS, LINUX AND WINDOWS	MCP 设置 · macOS、Linux 和 Windows
+MIDI CHANNEL	MIDI 通道
+MIDI DEVICES	MIDI 设备
+MIDI ENVELOPE REMOVED BEFORE TRANSLATION	MIDI 包络在转换前已移除
+MIDI INPUT	MIDI 输入
+MAGENTA	洋红
+MAGNIFY THE PHOTO WHILE PLACING A GUIDE'S END	放置参考线端点时放大照片
+MAKE	品牌
+MAKE THE CANDIDATE THE SELECT	将候选项设为选中项
+MAKE THE PHOTO'S NEAR-NEUTRAL AREAS NEUTRAL	将照片中接近中性的区域调为中性
+MASK 2	蒙版 2
+MASK EVERYTHING BUT THE PHOTO'S MAIN SUBJECT	蒙住主体以外的一切
+MASK THE PHOTO'S MAIN SUBJECT	蒙住照片主体
+MASK THE SKY	蒙住天空
+MASKING · SHIFT+W	蒙版 · Shift+W
+MASTER	母版
+MASTERS	母版
+MATCH TOTAL EXPOSURES NEEDS THIS PHOTO'S APERTURE, SHUTTER SPEED AND ISO	匹配总曝光需要此照片的光圈、快门速度和 ISO
+MATCH THE ENTIRE PORT NAME	匹配完整端口名称
+MATCH TOTAL EXPOSURES	匹配总曝光
+METADATA DEFAULTS	元数据默认值
+MIDTONE	中间调
+MIDTONES	中间调
+MISSING DATA DIRECTORY	缺少数据目录
+MODE	模式
+MODEL	型号
+MODEL DOWNLOAD CANCELLED	模型下载已取消
+MONITOR PROFILE	显示器配置文件
+MOVE GUIDE	移动参考线
+MOVE A DIAL OR PRESS A BUTTON TO IDENTIFY IT	转动旋钮或按下按钮以识别
+MULTIPLE PORTS MATCH; CHOOSE A SPECIFIC MIDI INPUT	多个端口匹配；请选择具体的 MIDI 输入
+NESTED REQUEST	嵌套请求
+NEW CATALOG…	新建目录…
+NEW DEVELOP PRESET…	新建显影预设…
+NEW SOURCE FOR THE SELECTED SPOT	为所选污点更换源
+NEW…	新建…
+NEXT CROP OVERLAY / TURN IT	下一裁剪叠加 / 旋转它
+NEXT PHOTO	下一张
+NO MIDI INPUTS FOUND. CONNECT YOUR DEVICE, THEN REFRESH INPUTS.	未找到 MIDI 输入。请连接设备，然后刷新输入。
+NO ACTION IS MAPPED TO THIS CC	此 CC 未映射任何操作
+NO ACTION IS MAPPED TO THIS NOTE	此音符未映射任何操作
+NO CAMERAS IN THIS CATALOG	此目录中没有相机
+NO CATALOG	无目录
+NO CATALOG IS OPEN	没有打开的目录
+NO CATALOG IS OPEN.	没有打开的目录。
+NO CATALOG OPEN	没有打开的目录
+NO COLLECTIONS	无集合
+NO FAVORITES YET	尚无收藏
+NO FOLDER CHOSEN	未选择文件夹
+NO FOLDERS YET	尚无文件夹
+NO FOLDERS YET.	尚无文件夹。
+NO MATCHING PROFILE	没有匹配的配置文件
+NO PERSON OR ANIMAL FOUND	未找到人物或动物
+NO PHOTO SELECTED	未选择照片
+NO PRESET HAS THIS ID; LIST PRESETS	没有此 ID 的预设；请列出预设
+NO PRESET MATCHES THIS NAME	没有匹配此名称的预设
+NO PRESETS FIT THIS CAMERA	没有适用于此相机的预设
+NO SKY FOUND	未找到天空
+NOISE REDUCTION	降噪
+NOT ASSIGNED	未分配
+NOT AVAILABLE ON THIS PLATFORM.	此平台不支持。
+NOT CONNECTED	未连接
+NOT EXPORTED	未导出
+NOTHING IS TICKED	未勾选任何项
+NOTHING SELECTED THERE; CLICK ON THE SUBJECT ITSELF	那里没有选中任何内容；请直接单击主体
+NOTHING TO ADJUST THERE: DRAG OVER A COLORED AREA	那里没有可调整的内容：请在有色区域上拖动
+NOTHING TO CHANGE	没有需要更改的内容
+NUDGE THE HOVERED SLIDER (SHIFT: 10)	微调悬停的滑块（Shift：10）
+O CYCLES THE OVERLAYS, SHIFT+O TURNS THEM	O 循环切换叠加，Shift+O 旋转它们
+O: THE SELECTED MASK IN RED	O：以红色显示所选蒙版
+OFFLINE PHOTOGRAPHS	离线照片
+OFFLINE, AND THERE IS NO CACHED PREVIEW	离线，且没有缓存的预览
+OFFLINE: RELINK ITS FOLDER TO EDIT	离线：重新链接其文件夹以编辑
+OFFLINE: SHOWING THE CACHED PREVIEW	离线：显示缓存的预览
+OFFSET	偏移
+OMARCHY’S CURRENT THEME COULD NOT BE READ.	无法读取 Omarchy 的当前主题。
+ONE REPORT A WEEK, WITH NO IDENTIFIERS.	每周一份报告，不含任何标识信息。
+ONLY THE CATALOG CHANGES. FILES ON DISK STAY AS THEY ARE.	仅目录会改变，磁盘上的文件保持不变。
+OPEN CATALOG…	打开目录…
+OPEN RAWMAKASE CATALOG…	打开 RAWmakase 目录…
+OPEN A CATALOG FIRST	请先打开一个目录
+OPEN A PHOTO TO APPLY A PRESET TO	打开一张照片以应用预设
+OPEN A PHOTO TO PREVIEW THE WATERMARK	打开一张照片以预览水印
+OPEN A PHOTO TO SEE ITS SNAPSHOTS AND HISTORY.	打开一张照片以查看其快照和历史记录。
+OPEN IN DEVELOP, NOT VERIFIED	在显影中打开，未验证
+OPEN OR CREATE A CATALOG TO ADD PHOTOS	打开或新建目录以添加照片
+OPEN THE LOUPE	打开放大视图
+OPEN THE PHOTOS CATALOG	打开 Photos 目录
+OPEN THE CHANGES FOUND	打开找到的更改
+OPEN THE SETUP GUIDE IN YOUR DEFAULT BROWSER	在默认浏览器中打开设置向导
+OPENED	已打开
+OPENED AHEAD OF TIME	已提前打开
+OPENED WITH LIGHTROOM EDIT	已带 Lightroom 编辑打开
+OPENING CATALOG…	正在打开目录…
+OPEN…	打开…
+OR DRAG A FOLDER ONTO THIS WINDOW.	或将文件夹拖到此窗口。
+ORANGE	橙色
+OUTPUT	输出
+OUTPUT ALREADY EXISTS; CHOOSE A NEW PATH	输出已存在；请选择新路径
+OUTPUT DIRECTORY DOES NOT EXIST	输出目录不存在
+OUTPUT HISTOGRAM OF THE WHOLE PHOTO	整张照片的输出直方图
+OUTPUT PATH MUST BE ABSOLUTE	输出路径必须是绝对路径
+OUTPUT RENDERING FAILED UNEXPECTEDLY	输出渲染意外失败
+OVERLAY	叠加
+OVERRIDE GLOBAL SETTING FOR SPECIFIC CAMERA	为特定相机覆盖全局设置
+OVERWRITE	覆盖
+OVERWRITE WITHOUT WARNING	覆盖且不再提示
+PAN	平移
+PAN WHILE A TOOL IS OPEN	工具打开时平移
+PANEL HEADER: SOLO MODE	面板标题：独奏模式
+PARAMETRIC	参数曲线
+PASTE	粘贴
+PASTE SETTINGS FROM PREVIOUS	粘贴上一张的设置
+PASTE FROM PREVIOUS	粘贴上一张
+PASTE SETTINGS	粘贴设置
+PASTE SETTINGS FROM PREVIOUS	粘贴上一张的设置
+PASTE SETTINGS FROM PREVIOUS PHOTO	粘贴上一张照片的设置
+PAUSE READING CHECKSUMS	暂停读取校验和
+PERFORMANCE	性能
+PET EYE	宠物眼
+PHOTO	照片
+PHOTO DIAL	照片旋钮
+PHOTO INFO OVERLAY: INFO 1, INFO 2, OFF	照片信息叠加：信息 1、信息 2、关闭
+PHOTO NAVIGATION NEEDS A RELATIVE CONTROL FORMAT.	照片导航需要相对控制格式。
+PHOTO NAVIGATION REQUIRES A RELATIVE ENCODER	照片导航需要相对编码器
+PHOTOS	照片
+PHOTOS ONLY	仅照片
+PICK / REJECT / UNFLAG	留用/排除/取消标记
+PICK A LIGHTROOM CATALOG (.LRCAT) ELSEWHERE	在其他位置选择 Lightroom 目录（.lrcat）
+PICK A COLOR TO ADJUST	选取要调整的颜色
+PICK A PHOTO IN THE LIBRARY TO EDIT IT	在图库中选择一张照片进行编辑
+PICK A PURPLE OR GREEN FRINGE	选取紫色或绿色边缘
+PICK A TARGET NEUTRAL	选取目标中性色
+PICK · P	留用 · P
+PICKED	已留用
+POINT	点
+POINT COLOR DROPPER: CLICK A COLOR IN THE PHOTO TO ADD A SWATCH	点颜色吸管：单击照片中的颜色以添加色板
+PORT NAME	端口名称
+POSITION	位置
+POST-CROP VIGNETTING	裁剪后暗角
+POST-PROCESSING	后期处理
+PREFERENCES…	首选项…
+PREPARING TO RESTART…	正在准备重启…
+PRESET	预设
+PRESET AMOUNT	预设数量
+PRESET NAME	预设名称
+PRESET NOT CREATED: NO PHOTO IS OPEN	预设未创建：没有打开的照片
+PRESET NOT UPDATED: NO PHOTO IS OPEN	预设未更新：没有打开的照片
+PRESET SAVED	预设已保存
+PRESETS ARE STILL LOADING	预设仍在加载
+PREVIEW CACHE COULD NOT BE UPDATED	无法更新预览缓存
+PREVIOUS PHOTO	上一张照片
+PROBLEM EXPORTING FILES	导出文件时出现问题
+PROCESS	处理
+PROFILES & PRESETS	配置文件与预设
+PROPORTIONAL	等比
+PUPIL SIZE	瞳孔大小
+PURGE CACHE	清除缓存
+PUT IN SUBFOLDER:	放入子文件夹：
+PUT THE OPEN TOOL AWAY	收起当前工具
+QUALITY	质量
+QUICK DEVELOP	快速显影
+RAWMAKASE CATALOG	RAWmakase 目录
+RAWMAKASE CATALOGS END IN .RAWMAKASE.	RAWmakase 目录以 .rawmakase 结尾。
+RAWMAKASE DEVICES	RAWmakase 设备
+RAWMAKASE INPUT	RAWmakase 输入
+RAWMAKASE IS CLOSING	RAWmakase 正在关闭
+RAWMAKASE IS UP TO DATE.	RAWmakase 已是最新版本。
+RAWMAKASE PRESET	RAWmakase 预设
+RADIAL GRADIENT	径向渐变
+RADIUS	半径
+RAISE / LOWER THE FLAG	提高/降低标记
+RANGE LOW	范围下限
+RANGES	范围
+RATING CHANGED	评分已更改
+RATING IS EQUAL TO	评分等于
+RATING IS GREATER THAN OR EQUAL TO	评分大于或等于
+RATING IS LESS THAN OR EQUAL TO	评分小于或等于
+RATING, FLAGS AND LABELS	评分、标记和色标
+RAW DEFAULTS	RAW 默认值
+RAW DEFAULTS SAVED	RAW 默认值已保存
+READ	读取
+READ METADATA FROM FILES READS THEIR METADATA AGAIN ONCE THE FILES CAN BE READ.	“从文件读取元数据”会在文件可读取后再次读取其元数据。
+READ METADATA FROM FILES…	从文件读取元数据…
+READ IN THE BACKGROUND, TO FIND PHOTOS MOVED OR RENAMED OUTSIDE RAWMAKASE.	在后台读取，以找出在 RAWmakase 之外被移动或重命名的照片。
+READ METADATA FROM THE FILE?	从文件读取元数据？
+READING RAW…	正在读取 RAW…
+READING PHOTO…	正在读取照片…
+READY FOR SCRIPTS AND MCP CLIENTS	已可供脚本和 MCP 客户端使用
+READY TO INSTALL. RAWMAKASE RESTARTS TO FINISH.	可以安装。RAWmakase 将重启以完成。
+RED EYE CORRECTION	红眼校正
+RED PRIMARY	红色原色
+RED, YELLOW, GREEN, BLUE	红、黄、绿、蓝
+REDO · CTRL+SHIFT+Z	重做 · Ctrl+Shift+Z
+REFERENCE VIEW	参考视图
+REFERENCE VIEW · SHIFT+R	参考视图 · Shift+R
+REFINE WITH CLICKS…	单击细化…
+REFRESH INPUTS	刷新输入
+REGENERATE	重新生成
+REGION	区域
+REJECT · X	排除 · X
+RELATIVE (1 / 127)	相对（1 / 127）
+RELATIVE (1 / 65)	相对（1 / 65）
+RELATIVE (65 / 63)	相对（65 / 63）
+REMIND ME LATER	稍后提醒
+REMOVE CHROMATIC ABERRATION	去除色差
+REMOVE LOCATION INFO	移除位置信息
+REMOVE VIRTUAL COPY…	移除虚拟副本…
+REMOVE DEVICE	移除设备
+REMOVE EVERY GUIDE	移除所有参考线
+REMOVE EVERY RED EYE CORRECTION	移除所有红眼校正
+REMOVE EVERY SPOT	移除所有污点
+REMOVE FROM CATALOG…	从目录移除…
+REMOVE FROM FAVORITES	从收藏移除
+REMOVE MISSING PHOTOS?	移除缺失的照片？
+REMOVE SELECTION MODEL	移除选择模型
+REMOVE THE CROP, STRAIGHTENING, ROTATION AND FLIPS	移除裁剪、拉直、旋转和翻转
+REMOVE THIS CAMERA'S DEFAULT	移除此相机的默认值
+REMOVE THIS PART OF THE MASK	移除此部分蒙版
+REMOVED FROM	已移除自
+RENAME PRESET	重命名预设
+RENAME TO	重命名为
+RENAME…	重命名…
+REQUEST MUST BE A NEWLINE-TERMINATED JSON OBJECT OF AT MOST 64 KIB	请求必须是换行结尾、不超过 64 KiB 的 JSON 对象
+RESET ALL SETTINGS	重置所有设置
+RESET SETTINGS	重置设置
+RESET SLIDERS	重置滑块
+RESET A SLIDER OR GRADING WHEEL	重置滑块或分级色轮
+RESET MAPPINGS TO PROFILE	将映射重置为配置文件
+RESIZE TO FIT: LONG EDGE	调整尺寸以适应：长边
+RESOLUTION	分辨率
+RESTART TO UPDATE	重启以更新
+REVERSE THE SORT ORDER	反转排序顺序
+RIGHT ARROW	右方向键
+ROTATE	旋转
+ROTATE L	向左旋转
+ROTATE R	向右旋转
+ROTATE LEFT	向左旋转
+ROTATE RIGHT	向右旋转
+RULER	标尺
+SAME FOLDER AS ORIGINAL PHOTO	与原照片相同的文件夹
+SAT RANGE	饱和度范围
+SAT SHIFT	饱和度偏移
+SAVE POINT CURVE	保存点曲线
+SAVE PRESET FILE…	保存预设文件…
+SAVE THE RGB, RED, GREEN AND BLUE CURVES UNDER A NAME	将 RGB、红、绿、蓝曲线以名称保存
+SAVED EDITS PROTECTED; EDITING IS TEMPORARY. EXPORT OR SAVE A PRESET.	已保存的编辑受保护；当前编辑是临时的。请导出或保存预设。
+SAVES THE RGB, RED, GREEN AND BLUE CURVES FOR THE POINT CURVE MENU.	为“点曲线”菜单保存 RGB、红、绿、蓝曲线。
+SAVE…	保存…
+SAVING STOPPED UNEXPECTEDLY	保存意外停止
+SCREEN MODE	屏幕模式
+SCRIPTS AND AI	脚本与 AI
+SCROLL	滚动
+SEARCH	搜索
+SEARCH FILENAME, KEYWORD, CAPTURE DATE OR LABEL	搜索文件名、关键词、拍摄日期或色标
+SEARCH PRESETS	搜索预设
+SEARCHED THE PRESETS THAT FIT THIS CAMERA ONLY.	仅搜索了适用于此相机的预设。
+SEARCHED YOUR FAVORITES ONLY.	仅搜索了你的收藏。
+SELECT A CORRECTION TO CHANGE IT	选择要更改的校正
+SELECT A MASK FIRST	请先选择蒙版
+SELECT A PHOTO TO EXPORT	选择要导出的照片
+SELECT ALL	全选
+SELECT ALL IN THE FILMSTRIP, FOR SYNC	在胶片显示窗格中全选，以便同步
+SELECT NONE	全不选
+SELECT NONE IN THE FILMSTRIP	取消胶片显示窗格中的全部选择
+SELECTING…	正在选择…
+SELECTION CANCELLED	已取消选择
+SELECTION MODEL INSTALLED	选择模型已安装
+SELECTION MODEL REMOVED	选择模型已移除
+SET COLOR LABEL	设置色标
+SET COPY AS MASTER	将副本设为母版
+SET FLAG	设置标记
+SET RATING	设置评分
+SET AS REFERENCE PHOTO	设为参考照片
+SET THE MIX FROM THE PHOTO'S COLORS	按照片的颜色设置混合
+SET THIS MASK'S ADJUSTMENTS BACK TO ZERO	将此蒙版的调整归零
+SETTINGS COPIED	设置已复制
+SETTINGS PASTED	设置已粘贴
+SHARE	共享
+SHARE ANONYMOUS USAGE STATS	共享匿名使用统计
+SHARPENING AMOUNT	锐化数量
+SHOW ALL PRESETS	显示所有预设
+SHOW BEFORE · BACKSLASH	显示修改前 · 反斜杠
+SHOW EDIT	显示编辑
+SHOW LOUPE	显示放大视图
+SHOW OVERLAY	显示叠加
+SHOW CLIPPED SHADOWS AND HIGHLIGHTS · J	显示溢出的阴影和高光 · J
+SHOW CLIPPING	显示裁切警告
+SHOW HIGHLIGHT CLIPPING · J SHOWS BOTH	显示高光裁切警告 · J 显示两者
+SHOW IN LOUPE	在放大视图中显示
+SHOW IT	显示
+SHOW OR HIDE THIS MASK'S EFFECT	显示或隐藏此蒙版的效果
+SHOW SHADOW AND HIGHLIGHT CLIPPING	显示阴影和高光裁切警告
+SHOW SHADOW CLIPPING · J SHOWS BOTH	显示阴影裁切警告 · J 显示两者
+SHOW THE COLORS THIS SWATCH SELECTS; EVERYTHING ELSE TURNS GRAY	显示此色板选中的颜色，其余部分变灰
+SHOW THE PHOTO IN THE LOUPE	在放大视图中显示照片
+SHOW WHAT WAS NOT EXPORTED	显示未导出的内容
+SIMPLE COPYRIGHT WATERMARK	简单版权水印
+SKIP THIS VERSION	跳过此版本
+SMART COLLECTIONS	智能集合
+SNAPSHOTS	快照
+SOLO MODE	独奏模式
+SOME EXPORT OPERATIONS WERE NOT PERFORMED.	部分导出操作未执行。
+SORT	排序
+SORT THE PHOTOS BY	照片排序依据
+SPECIFIC FOLDER	指定文件夹
+SPLIT LEFT / RIGHT	左右分割
+SPLIT TOP / BOTTOM	上下分割
+SPOT	污点
+SPOT REMOVAL	污点修复
+SPOT REMOVAL: HEAL AND CLONE · Q	污点修复：修复与仿制 · Q
+STANDARD PREVIEW SIZE	标准预览尺寸
+STANDARD PREVIEWS CLEARED	标准预览已清除
+STAR RATING	星级评分
+STAR RATING 0	星级评分 0
+STAR RATING 1	星级评分 1
+STAR RATING 2	星级评分 2
+STAR RATING 3	星级评分 3
+STAR RATING 4	星级评分 4
+STAR RATING 5	星级评分 5
+START NUMBER	起始编号
+START A NEW CATALOG	新建目录
+START OVER	重新开始
+STARTING LOOKS SUCH AS ADOBE COLOR, FOR YOUR CAMERAS.	为你的相机提供 Adobe Color 等起始外观。
+STATUS	状态
+STILL READING METADATA FROM FILES; TRY AGAIN WHEN IT'S DONE	仍在从文件读取元数据；完成后请重试
+STOP SELECTING; THE PHOTO IS LEFT AS IT WAS	停止选择；照片保持原样
+STOP SYNCHRONIZING	停止同步
+STOPPED UNEXPECTEDLY	意外停止
+STRAIGHTEN ALONG A LINE	沿直线拉直
+STYLE	样式
+SUBTRACT	减去
+SUPPORTED PROTOCOL VERSION IS 1	支持的协议版本为 1
+SURVEY THE SELECTED PHOTOS	筛选所选照片
+SWAP BEFORE AND AFTER	交换修改前和修改后
+SWAP BEFORE AND AFTER SETTINGS	交换修改前和修改后的设置
+SWAP PORTRAIT AND LANDSCAPE · X	切换横向和纵向 · X
+SWAP SELECT AND CANDIDATE	交换选中项和候选项
+SWAP THE CROP'S ORIENTATION	交换裁剪方向
+SYNC SETTINGS	同步设置
+SYNC SETTINGS TO THE SELECTED PHOTOS	将设置同步到所选照片
+SYNC SETTINGS…	同步设置…
+SYNC THE ACTIVE PHOTO'S SETTINGS TO THE SELECTION	将当前照片的设置同步到所选照片
+SYNCHRONIZATION STOPPED	同步已停止
+SYNCHRONIZE ALL FOLDERS…	同步所有文件夹…
+SYNCHRONIZE FOLDER COULD NOT START	同步文件夹无法启动
+SYNCHRONIZE FOLDER STOPPED UNEXPECTEDLY	同步文件夹意外停止
+TAKE A PHOTO OUT	移除照片
+TARGETED ADJUSTMENT: B&W MIX	目标调整：黑白混合
+TARGETED ADJUSTMENT: HUE / SATURATION / LUMINANCE	目标调整：色相/饱和度/明亮度
+TARGETED ADJUSTMENT: TONE CURVE	目标调整：色调曲线
+TEMPERATURE	色温
+TEXT OPTIONS	文字选项
+THE AUTO MIX IS APPLIED	已应用自动混合
+THE B&W MIX ADJUSTS BLACK & WHITE PHOTOS	黑白混合用于调整黑白照片
+THE COLOR MIXER ADJUSTS COLOR PHOTOS; THIS ONE IS BLACK & WHITE	颜色混合器用于彩色照片；这张是黑白照片
+THE SETUP ASSISTANT FINDS LIGHTROOM'S OWN PROFILES AND PRESETS ON THIS MAC.	设置助手会在这台 Mac 上查找 Lightroom 自带的配置文件和预设。
+THE AUTOSAVE THREAD STOPPED	自动保存线程已停止
+THE CATALOG CHANGED DURING THE SCAN; SYNCHRONIZE AGAIN	扫描期间目录已更改；请再次同步
+THE CATALOG CHANGED SINCE THE SCAN; SYNCHRONIZE AGAIN	目录自扫描后已更改；请再次同步
+THE CHOSEN THEME IS MISSING; THE LAST ONE STAYS UNTIL IT IS BACK.	所选主题缺失；主题恢复前将沿用上一个。
+THE COMMAND DID NOT START IN TIME AND WAS CANCELLED	命令未能及时启动，已取消
+THE COMMAND QUEUE IS FULL	命令队列已满
+THE FIRST SELECTION ON A PHOTO TAKES A FEW SECONDS; THE NEXT ONES ARE QUICK	首次选择照片需要几秒钟；之后会很快
+THE FOLDERS CHANGED MEANWHILE; ADD THE FOLDER AGAIN	期间文件夹已更改；请重新添加文件夹
+THE FOLLOWING FILES ALREADY EXIST.	以下文件已存在。
+THE MASKS CHANGED WHILE SELECTING; NOTHING WAS ADDED	选择期间蒙版已更改；未添加任何内容
+THE ORIGINAL MAY BE OFFLINE, DAMAGED, OR HAVE NO USABLE EMBEDDED PREVIEW.	原文件可能离线、损坏，或没有可用的内嵌预览。
+THE OUTPUT JOB DOES NOT EXIST OR HAS EXPIRED	输出任务不存在或已过期
+THE PHOTO CHANGED WHILE SAMPLING; PICK THE COLOR AGAIN	取样期间照片已更改；请重新取色
+THE PHOTO IS STILL LOADING	照片仍在加载
+THE PHOTO OR EDIT CHANGED; READ STATE AGAIN	照片或编辑已更改；请重新读取状态
+THE PHOTOS THE LAST ADD PHOTO FOLDER OR SYNCHRONIZE ADDED	上次“添加照片文件夹”或“同步”添加的照片
+THE PRESET NAME IS EMPTY	预设名称为空
+THE PREVIEW COULD NOT BE BUILT	无法构建预览
+THE REFERENCE PHOTO STAYS WHEN YOU LEAVE DEVELOP	离开显影时将保留参考照片
+THE SAMPLED COLOR, AND THE COLOR THE SWATCH TURNS IT INTO	取样的颜色，以及色板将其转换成的颜色
+THE SELECTION MODEL IS NOT INSTALLED	选择模型未安装
+THE THEMES FOLDER COULD NOT BE READ.	无法读取主题文件夹。
+THE THEMES FOLDER HAS TOO MANY FILES; SOME ARE NOT LISTED.	主题文件夹中的文件过多；部分未列出。
+THE UPDATE IS NO LONGER READY	更新已不再就绪
+THE ZOOMED VIEW COULD NOT BE BUILT	无法构建缩放视图
+THEME	主题
+THESE SHORTCUTS	这些快捷键
+THIRDS	三分法
+THIS COMPUTER	此计算机
+THIS EDIT IS PROTECTED AND CANNOT BE CHANGED HERE	此编辑受保护，无法在此更改
+THIS INPUT IS ALREADY ASSIGNED TO ANOTHER ENABLED DEVICE	此输入已分配给另一个启用的设备
+THIS PARAMETER IS NOT AVAILABLE ON MASKS	此参数不适用于蒙版
+THIS PHOTO'S MASKS USE TOO MUCH MEMORY FOR ANOTHER SELECTION	这张照片的蒙版占用内存过多，无法再次选择
+THIS PROFILE HAS NO AMOUNT	此配置文件没有数量
+THIS SHORTCUT HAS NO APPLICATION ACTION	此快捷键没有对应的应用操作
+THRESHOLD	阈值
+THUMBNAILS	缩略图
+TINT	色调
+TITLE	标题
+TITLE, CAPTION, CREATOR, COPYRIGHT, RATING, LABEL AND KEYWORDS	标题、说明、创作者、版权、评分、色标和关键词
+TOGGLE PICK	切换留用
+TOGGLE ZOOM	切换缩放
+TOGGLE ZOOM / FIT	切换缩放/适合
+TOO MANY RED EYE CORRECTIONS ON THIS PHOTO	这张照片的红眼校正过多
+TOO MANY SPOTS ON THIS PHOTO	这张照片的污点过多
+TOTALS	总计
+TREATMENT	处理方式
+TRIANGLE	三角形
+TRY AGAIN	重试
+TRY AGAIN	重试
+TRY ANOTHER NAME OR GROUP.	试试其他名称或分组。
+TURN SPEED	转动速度
+TURN THE FILTERS OFF / ON	关闭/开启筛选
+TWO OUTPUT JOBS ARE ALREADY RUNNING	已有两个输出任务在运行
+TYPE	类型
+UNDO / REDO, ANYWHERE	在任意位置撤销/重做
+UNDO · CTRL+Z	撤销 · Ctrl+Z
+UNFLAG	取消标记
+UNKNOWN	未知
+UNKNOWN ACTION; USE CAPABILITIES TO LIST SUPPORTED ACTIONS	未知操作；请用 capabilities 列出支持的操作
+UNKNOWN PARAMETER	未知参数
+UNKNOWN PHOTO	未知照片
+UNRATED	未评分
+UNRATED PHOTOS ONLY	仅未评分照片
+UP / DOWN	上 / 下
+UP ARROW	上方向键
+UPDATE DEFAULT	更新默认值
+UPDATE AVAILABLE	有可用更新
+UPDATES	更新
+UPGRADE CATALOG…	升级目录…
+UPGRADE THIS CATALOG	升级此目录
+UPRIGHT IS STILL ANALYSING IT	自动校正仍在分析
+UPRIGHT: THE ANALYSIS FAILED UNEXPECTEDLY	自动校正：分析意外失败
+USAGE STATS	使用统计
+USE UNIQUE NAMES	使用唯一名称
+USE AN EXPLICIT BAND CHANNEL, SUCH AS BAND3.SAT	使用明确的波段通道，例如 band3.sat
+USE CAMERA EXPOSURE BASELINE	使用相机曝光基准
+USE SRGB	使用 sRGB
+VARIANCE	方差
+VIBRANCE	鲜艳度
+VIGNETTING	暗角
+VIRTUAL COPIES ARE NEVER READ FROM FILES	虚拟副本从不从文件读取
+VISUALIZE RANGE	可视化范围
+VISUALIZE SPOTS	可视化污点
+VISUALIZE SPOTS	可视化污点
+WAIT FOR SYNC SETTINGS TO FINISH BEFORE UPDATING	请等同步设置完成后再更新
+WATERMARK EDITOR	水印编辑器
+WATERMARK EFFECTS	水印效果
+WATERMARK STYLE	水印样式
+WATERMARK IMAGE NOT FOUND	未找到水印图像
+WATERMARK NAME	水印名称
+WATERMARK:	水印：
+WATERMARKING	水印
+WHAT’S SENT:	发送内容：
+WHEN THE OVERLAY SHOWS: ALWAYS, WITH THE POINTER OVER THE PHOTO, OR NEVER	叠加显示时机：始终显示、指针位于照片上时，或从不
+WHERE IT WAS ADDED; NOT LOCATED ON THIS COMPUTER	添加位置；不在这台计算机上
+WHICH FOLDER OF THE CATALOG IS THIS?	这是目录中的哪个文件夹？
+WHITE BALANCE	白平衡
+WHITE BALANCE SELECTOR (W): CLICK A NEUTRAL AREA OF THE PHOTO	白平衡吸管（W）：单击照片中的中性区域
+WHITE POINT	白场
+WORKING…	正在处理…
+WRONG TOKEN; READ CONTROL.JSON	令牌错误；请读取 control.json
+YOUR DEVELOP PRESETS, IN THEIR GROUPS.	你的显影预设，按分组显示。
+ZOOM IN / OUT	放大/缩小
+A CAMERA PROFILE; IMPORT IT UNDER CAMERA PROFILES	相机配置文件；请通过“相机配置文件”导入
+A PRESET, NOT A PROFILE	属于预设，不是配置文件
+ITS LIGHTROOM EDIT IS STILL BEING APPLIED	其 Lightroom 编辑仍在应用
+ITS EDIT IS PROTECTED, AS THE FILE CHANGED SINCE IT WAS SAVED	其编辑受保护，因为文件自保存后已更改
+NOT STARTED, EXPORT CANCELLED	未开始，导出已取消
+PROBABLY THE SAME, NOT VERIFIED	可能相同，未验证
+SAME CONTENT, RENAMED	内容相同，已重命名
+STAYS MISSING; THESE FILES ARE OFFERED AGAIN NEXT TIME	仍然缺失；这些文件下次会再次提供
+THE SYNC FAILED UNEXPECTEDLY	同步意外失败
+THE FILE CHANGED DURING THE SYNC	文件在同步期间已更改
+THE PREVIEW CACHE CAN'T BE OPENED	无法打开预览缓存
+THE SOURCE PHOTO HAS NO APERTURE, SHUTTER SPEED OR ISO	源照片没有光圈、快门速度或 ISO
+▸ RANGES	▸ 范围
+▾ RANGES	▾ 范围
+THE LEFT PANEL	左侧面板
+THE RIGHT PANEL	右侧面板
+THE FILMSTRIP	胶片显示窗格
+PRESETS AND HISTORY	预设与历史记录
+THE ADJUSTMENTS	调整面板
+1 PHOTO	1 张照片
+OPEN	打开
+NEW	新建
+APPLY	应用
+YES	是
+NO	否
+RETRY	重试
+DEFAULT	默认
+CUSTOM	自定义
+ALL	全部
+NONE	无
+AUTO	自动
+BASIC	基本
+EXPOSURE	曝光
+CONTRAST	对比度
+HIGHLIGHTS	高光
+SHADOWS	阴影
+WHITES	白色色阶
+BLACKS	黑色色阶
+BALANCE	平衡
+BLENDING	混合
+COLOR HUE	颜色色相
+COLOR SAT	颜色饱和度
+DEHAZE	去朦胧
+DISTORTION	畸变
+MASKING	蒙版
+MIDPOINT	中点
+NOISE	噪点
+OFFSET X	X 偏移
+OFFSET Y	Y 偏移
+ROUGHNESS	粗糙度
+SHARPNESS	锐度
+SMOOTHNESS	平滑度
+TEMP	色温
+TEXTURE	纹理
+CLOUDY	阴天
+DAYLIGHT	日光
+FLASH	闪光灯
+FLUORESCENT	荧光灯
+SHADE	阴影
+TUNGSTEN	钨丝灯
+ADD RED EYE CORRECTION	添加红眼校正
+INVALID RED EYE CORRECTION	红眼校正无效
+TOO MANY RED EYE CORRECTIONS	红眼校正过多
+PET	宠物
+CREATIVE	创意
+CURVE	曲线
+EMBEDDED	内嵌
+LINEAR	线性
+SCALE	缩放
+DETAIL	细节
+EFFECTS	效果
+TRANSFORM	变换
+CALIBRATION	校准
+KEYWORDING	关键词
+METADATA	元数据
+NAVIGATOR	导航器
+HISTOGRAM	直方图
+PRESETS	预设
+CATALOG	目录
+FOLDERS	文件夹
+COLLECTIONS	集合
+QUICK DEVELOP	快速显影
+LENS CORRECTIONS	镜头校正
+TONE CURVE	色调曲线
+COLOR MIXER	颜色混合器
+COLOR GRADING	颜色分级
+SPLIT TONING	分离色调
+PRESENCE	质感
+BLACK & WHITE	黑白
+TREATMENT	处理方式
+TINT	色调
+TEMPERATURE	色温
+HIDE THE LEFT PANEL · F7	隐藏左侧面板 · F7
+SHOW THE LEFT PANEL · F7	显示左侧面板 · F7
+HIDE THE RIGHT PANEL · F8	隐藏右侧面板 · F8
+SHOW THE RIGHT PANEL · F8	显示右侧面板 · F8
+HIDE THE FILMSTRIP · F6	隐藏胶片显示窗格 · F6
+SHOW THE FILMSTRIP · F6	显示胶片显示窗格 · F6
+HIDE PRESETS AND HISTORY	隐藏预设与历史记录
+SHOW PRESETS AND HISTORY	显示预设与历史记录
+HIDE THE ADJUSTMENTS	隐藏调整面板
+SHOW THE ADJUSTMENTS	显示调整面板
+SHOW IN FILE MANAGER	在文件管理器中显示
+REVEAL IN FINDER	在访达中显示
+SHOW IN EXPLORER	在资源管理器中显示
+1 / 1 PHOTOS	1 / 1 张照片
+CHOOSE A FOLDER AND RAWMAKASE SHOWS EVERY PHOTO IN IT AND ITS SUBFOLDERS. PHOTOS STAY WHERE THEY ARE; NOTHING IS COPIED, MOVED OR CHANGED.	选择一个文件夹，RAWmakase 会显示其中的所有照片及其子文件夹。照片仍留在原处；不会复制、移动或改动任何内容。
+RAWMAKASE READS RAW, DNG, JPEG, PNG AND TIFF FILES. ADD A FOLDER THAT HOLDS SOME, OR FIND THE FOLDER AGAIN IF IT HAS MOVED.	RAWmakase 可读取 RAW、DNG、JPEG、PNG 和 TIFF 文件。添加包含这些文件的文件夹，或在文件夹移动后重新定位它。
+RAWMAKASE KEEPS YOUR FOLDERS, RATINGS AND EDITS IN A CATALOG. START ONE TO ADD PHOTOS, OR OPEN A CATALOG YOU ALREADY HAVE.	RAWmakase 把文件夹、评分和编辑保存在目录里。新建一个目录即可添加照片，或打开已有的目录。
+CREATE A RAWMAKASE CATALOG OR IMPORT A LIGHTROOM CATALOG FROM THE CATALOG MENU ABOVE.	在上方目录菜单中新建 RAWmakase 目录，或导入 Lightroom 目录。
+ADD YOUR PHOTOS	添加你的照片
+THIS COMPUTER	此计算机
+SELECT SKY	选择天空
+SELECT SUBJECT	选择主体
+1 FOLDER	1 个文件夹
+REMOVED FROM	已移除自
+SYNC SETTINGS…	同步设置…
+PREVIEWS	预览
+SET FLAG	设置标记
+SET RATING	设置评分
+SET COLOR LABEL	设置色标
+ADD DEVICE	添加设备

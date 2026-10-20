@@ -1,0 +1,73 @@
+# Maintainer: Your Name <you@example.com>
+# Chinese (zh-CN) interface for RAWmakase: the unmodified upstream sources built
+# with one patched dependency (epaint), plus an external TSV dictionary.
+pkgname=rawmakase-zh
+pkgver=0.4.1
+pkgrel=1
+pkgdesc='RAWmakase RAW photo editor with a Chinese (zh-CN) interface'
+arch=('x86_64')
+url="https://github.com/OWNER/rawmakase-zh"
+license=('MIT')
+depends=('libraw' 'lcms2' 'libjpeg-turbo' 'zlib' 'libgomp' 'gcc-libs')
+optdepends=('noto-fonts-cjk: 中文字形')
+makedepends=('rust' 'cargo' 'clang' 'python')
+options=(!debug)
+source=("rawmakase-$pkgver.tar.gz::https://github.com/pch/rawmakase/archive/refs/tags/v$pkgver.tar.gz"
+        'zh.tsv'
+        'zh.rs'
+        'patch_epaint.py'
+        'patch_cargo.py'
+        'rawmakase-zh'
+        'rawmakase-zh.desktop'
+        'rawmakase-zh.svg'
+        'rawmakase-zh-update-check.service'
+        'rawmakase-zh-update-check.timer')
+sha256sums=('a94f5a1a9c9181e05ba56ca9dd0a709669bf6e21a23ae6393fa9eca49292d4aa'
+            '94890e617c3eaa961d1915cf87729bb6af98ea969e4d7f1e2bb444b43cc2934f'
+            'c7de42168c3ddacee972e19f4f864a4e87c17457b861e002a116a5c9c33e8aab'
+            'ce3c98ee36d4a8ec4669ab810c57412f0048a20f1e279d82c64d99362dbafa45'
+            '41e21b810c57829364045fd5bdbd815a0122fcb6a298e6ad04141d41f25d8050'
+            '78417bede99ce90c02bb3112be3fa246597080a1a5445f7c943e5ed0a4f674f3'
+            '0374feba17760d5d04adb8f90c5751880f678c4fed329644da8f15b786b41e67'
+            '78faf3f9c4c0cdbb0b184ddbd4978e7461c14f6014d7c6de64d1c6c8e0430b84'
+            '8ea85e0d421c294f995edacfaa687f0981f3fcf628279d4c4e17ec0dbcd7ac93'
+            '378017170462963c0a6f7aaf349092ffb9ab55735bcf2a6e054dbfd80e4e96f2')
+
+prepare() {
+	cd "rawmakase-$pkgver"
+	export CARGO_HOME="$srcdir/cargo-home"
+	cargo fetch --locked
+
+	local epaint_version
+	epaint_version=$(python - Cargo.lock <<-'PY'
+		import re, sys
+		text = open(sys.argv[1], encoding="utf-8").read()
+		print(re.search(r'name = "epaint"\nversion = "([^"]+)"', text).group(1))
+	PY
+	)
+
+	mkdir -p "$srcdir/epaint"
+	cp -r "$(ls -d "$CARGO_HOME"/registry/src/*/"epaint-$epaint_version" | head -1)"/* "$srcdir/epaint"/
+	python "$srcdir/patch_epaint.py" "$srcdir/epaint" "$srcdir/zh.rs"
+	python "$srcdir/patch_cargo.py" Cargo.toml "$srcdir/epaint"
+}
+
+build() {
+	cd "rawmakase-$pkgver"
+	export CARGO_HOME="$srcdir/cargo-home"
+	cargo build --release --offline
+}
+
+package() {
+	cd "rawmakase-$pkgver"
+	install -Dm755 target/release/rawmakase "$pkgdir/usr/lib/rawmakase-zh/rawmakase"
+	install -Dm644 "$srcdir/zh.tsv" "$pkgdir/usr/share/rawmakase-zh/zh.tsv"
+	printf 'v%s\n' "$pkgver" >"$pkgdir/usr/share/rawmakase-zh/version"
+	install -Dm755 "$srcdir/rawmakase-zh" "$pkgdir/usr/bin/rawmakase-zh"
+	install -Dm644 "$srcdir/rawmakase-zh.desktop" "$pkgdir/usr/share/applications/rawmakase-zh.desktop"
+	install -Dm644 "$srcdir/rawmakase-zh.svg" "$pkgdir/usr/share/icons/hicolor/scalable/apps/rawmakase-zh.svg"
+	install -Dm644 "$srcdir/rawmakase-zh-update-check.service" \
+		"$pkgdir/usr/lib/systemd/user/rawmakase-zh-update-check.service"
+	install -Dm644 "$srcdir/rawmakase-zh-update-check.timer" \
+		"$pkgdir/usr/lib/systemd/user/rawmakase-zh-update-check.timer"
+}

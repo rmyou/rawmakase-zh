@@ -1,0 +1,23 @@
+#!/bin/sh
+# Launch the Chinese-localized RAWmakase.
+#
+# The binary sits under this launcher's own prefix — /usr/lib/rawmakase-zh for a
+# package install, /usr/local/lib/rawmakase-zh for a manual one — so the same
+# script works for both.
+#
+#   RAWMAKASE_ZH_DICT   dictionary to use (default: <prefix>/share/rawmakase-zh/zh.tsv)
+#   RAWMAKASE_ZH_LOG    append every laid-out string the UI shows, to grow the dictionary
+#
+# LANG is forced to zh_CN so the font fallback picks the Simplified Chinese cut of
+# Noto Sans CJK instead of the Japanese one; numbers and dates keep C formats.
+self=$(readlink -f -- "$0")
+prefix=$(dirname -- "$(dirname -- "$self")")
+dict=${RAWMAKASE_ZH_DICT:-$prefix/share/rawmakase-zh/zh.tsv}
+
+exec env \
+	LANG=zh_CN.UTF-8 \
+	LC_NUMERIC=en_US.UTF-8 \
+	LC_TIME=en_US.UTF-8 \
+	LC_COLLATE=en_US.UTF-8 \
+	RAWMAKASE_ZH_DICT="$dict" \
+	"$prefix/lib/rawmakase-zh/rawmakase" "$@"
