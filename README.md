@@ -54,7 +54,12 @@ tools/rebuild-zh.sh v0.5.0 --prepare-only   # 只验证补丁能否套用（约 
 → 用 `tools/extract_missing.py` 列出该版本还没有译文的新字符串。
 
 `packaging/rawmakase-zh-update-check.timer`（systemd 用户定时器）每天查一次 GitHub
-发布，比本地版本新就发桌面通知；只发一个 `curl`，不消耗任何 API 额度。
+发布，比本地版本新就发桌面通知；只发一个 `curl`，不消耗任何 API 额度。包安装后启用：
+
+```sh
+systemctl --user daemon-reload
+systemctl --user enable --now rawmakase-zh-update-check.timer
+```
 
 ## 参与翻译
 
