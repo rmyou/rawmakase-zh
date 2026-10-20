@@ -7,3 +7,7 @@
 /screenshots/*.tmp.png
 zh_new.txt
 *.prev
+aur/src/
+aur/pkg/
+aur/*.pkg.tar.zst
+aur/*.tar.gz

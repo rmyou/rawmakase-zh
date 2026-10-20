@@ -1652,6 +1652,7 @@ RAWMAKASE CATALOGS END IN .RAWMAKASE.	RAWmakase 目录以 .rawmakase 结尾。
 RAWMAKASE DEVICES	RAWmakase 设备
 RAWMAKASE INPUT	RAWmakase 输入
 RAWMAKASE IS CLOSING	RAWmakase 正在关闭
+RAWMAKASE IS NEW. HELP US MAKE IT BETTER BY SENDING AN ANONYMOUS USAGE REPORT ONCE A WEEK: THE APP VERSION, YOUR SYSTEM AND GRAPHICS. NO FILES, PHOTOS, SETTINGS OR IDENTIFIERS.	RAWmakase 还很新。请帮助我们改进：每周发送一次匿名使用报告，内容只有应用版本、系统与显卡信息，不含文件、照片、设置或任何身份标识。
 RAWMAKASE IS UP TO DATE.	RAWmakase 已是最新版本。
 RAWMAKASE KEEPS YOUR FOLDERS, RATINGS AND EDITS IN A CATALOG. START ONE TO ADD PHOTOS, OR OPEN A CATALOG YOU ALREADY HAVE.	RAWmakase 把文件夹、评分和编辑保存在目录里。新建一个目录即可添加照片，或打开已有的目录。
 RAWMAKASE PRESET	RAWmakase 预设
@@ -1661,6 +1662,7 @@ RAWmakase catalogs end in .rawmakase.	RAWmakase 目录以 .rawmakase 结尾。
 RAWmakase devices	RAWmakase 设备
 RAWmakase input	RAWmakase 输入
 RAWmakase is closing	RAWmakase 正在关闭
+RAWmakase is new. Help us make it better by sending an anonymous usage report once a week: the app version, your system and graphics. No files, photos, settings or identifiers.	RAWmakase 还很新。请帮助我们改进：每周发送一次匿名使用报告，内容只有应用版本、系统与显卡信息，不含文件、照片、设置或任何身份标识。
 RAWmakase is up to date.	RAWmakase 已是最新版本。
 RAWmakase keeps your folders, ratings and edits in a catalog. Start one to add photos, or open a catalog you already have.	RAWmakase 把文件夹、评分和编辑保存在目录里。新建一个目录即可添加照片，或打开已有的目录。
 RAWmakase preset	RAWmakase 预设
@@ -2426,9 +2428,11 @@ Working…	正在处理…
 Wrong token; read control.json	令牌错误；请读取 control.json
 YELLOW	黄色
 YES	是
+YOU CAN CHANGE THIS IN PREFERENCES > GENERAL.	可在“首选项 > 常规”中更改。
 YOUR DEVELOP PRESETS, IN THEIR GROUPS.	你的显影预设，按分组显示。
 Yellow	黄色
 Yes	是
+You can change this in Preferences > General.	可在“首选项 > 常规”中更改。
 Your develop presets, in their groups.	你的显影预设，按分组显示。
 ZOOM IN / OUT	放大/缩小
 Zoom in / out	放大/缩小

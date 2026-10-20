@@ -1,0 +1,31 @@
+name: package
+
+# Builds the pacman package the way AUR users get it, so a tag that cannot build
+# is caught here instead of in someone's terminal.
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  makepkg:
+    runs-on: ubuntu-latest
+    container: archlinux:latest
+    steps:
+      - name: prepare the container
+        run: |
+          pacman -Syu --noconfirm --needed git base-devel rust clang python \
+            libraw lcms2 libjpeg-turbo zlib libgomp >/dev/null
+          useradd -m builder
+      - uses: actions/checkout@v4
+        with:
+          path: repo
+      - name: build the package
+        run: |
+          chown -R builder repo
+          su builder -c 'cd repo/aur && makepkg -s --noconfirm'
+      - name: keep the artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: rawmakase-zh-package
+          path: repo/aur/*.pkg.tar.zst
