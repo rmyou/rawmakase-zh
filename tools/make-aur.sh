@@ -17,6 +17,7 @@ cp "$root/packaging/rawmakase-zh.desktop" "$aur/rawmakase-zh.desktop"
 cp "$root/packaging/rawmakase-zh.svg" "$aur/rawmakase-zh.svg"
 cp "$root/packaging/rawmakase-zh-update-check.service" "$aur/"
 cp "$root/packaging/rawmakase-zh-update-check.timer" "$aur/"
+cp "$root/tools/check_update.sh" "$aur/check-update.sh"
 
 python3 "$root/tools/update-sums.py"
 echo "aur/ synced"

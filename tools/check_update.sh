@@ -1,15 +1,21 @@
 #!/bin/sh
 # Daily check: is there a RAWmakase release newer than the localized build?
-# Costs nothing but a curl; notifies the desktop when the answer is yes.
+#
+# Installed by the rawmakase-zh package (or packaging/install.sh) and run by
+# rawmakase-zh-update-check.timer. Costs one redirect request; no API quota.
 set -eu
-marker="$HOME/.local/state/rawmakase-zh"
+marker="${XDG_STATE_HOME:-$HOME/.local/state}/rawmakase-zh"
 mkdir -p "$marker"
-installed=$(cat /usr/local/share/rawmakase-zh/version 2>/dev/null || echo unknown)
-# github.com/releases/latest redirects to the tag; the JSON API is rate limited.
+
+installed=unknown
+for path in /usr/share/rawmakase-zh/version /usr/local/share/rawmakase-zh/version; do
+	[ -r "$path" ] && installed=$(cat "$path") && break
+done
+
+# github.com/releases/latest redirects to the newest tag; the JSON API answers
+# 403 to unauthenticated callers often enough to not rely on it.
 latest=$(curl -fsI --max-time 20 -o /dev/null -w '%{redirect_url}' \
 	https://github.com/pch/rawmakase/releases/latest 2>/dev/null | sed 's#.*/tag/##' || true)
-[ -n "${latest:-}" ] || latest=$(git -C "$(dirname -- "$0")/../src" ls-remote --tags origin 2>/dev/null |
-	awk '{print $2}' | sed 's#refs/tags/##' | grep -v '\^{}' | sort -V | tail -1)
 [ -n "${latest:-}" ] || exit 0
 
 if [ "$latest" = "$installed" ]; then
@@ -24,4 +30,4 @@ fi
 printf '%s\n' "$latest" >"$marker/update-available"
 notify-send -a RAWmakase -i rawmakase \
 	"RAWmakase $latest 已发布（当前汉化版 $installed）" \
-	"运行 /home/kream/rawmakseHANHUA/tools/rebuild-zh.sh 重建中文版，或先继续用现版本。" || true
+	"用 tools/rebuild-zh.sh 重建中文版，或继续使用当前版本。" || true

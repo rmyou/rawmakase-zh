@@ -3,4 +3,4 @@ Description=Check whether a newer RAWmakase release exists for the Chinese build
 
 [Service]
 Type=oneshot
-ExecStart=/home/kream/rawmakseHANHUA/tools/check_update.sh
+ExecStart=/usr/lib/rawmakase-zh/check-update.sh
