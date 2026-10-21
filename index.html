@@ -1,0 +1,16 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>rawmakase-zh pacman repository</title>
+<style>body{font:16px/1.6 system-ui,sans-serif;max-width:46rem;margin:3rem auto;padding:0 1rem}
+code{background:#f2f2f2;padding:.1rem .3rem;border-radius:3px}pre{background:#f6f6f6;padding:1rem;overflow:auto}</style>
+<h1>rawmakase-zh · pacman 仓库</h1>
+<p>RAWmakase 中文版 0.4.1 的二进制包，供 Arch Linux 的 pacman 直接安装。签名密钥：<code>F2EBB07B9579715A</code></p>
+<h2>导入签名公钥（只需一次）</h2>
+<pre>sudo pacman-key --add - &lt;(curl -fsSL https://rmyou.github.io/rawmakase-zh/rawmakase-zh.asc)
+sudo pacman-key --lsign-key F2EBB07B9579715A</pre>
+<h2>添加仓库</h2>
+<pre>[rawmakase-zh]
+SigLevel = Required
+Server = https://rmyou.github.io/rawmakase-zh</pre>
+<p>写进 <code>/etc/pacman.conf</code> 末尾，然后 <code>sudo pacman -Syu rawmakase-zh</code>。</p>
+<p>包文件：<a href="rawmakase-zh-0.4.1-1-x86_64.pkg.tar.zst">rawmakase-zh-0.4.1-1-x86_64.pkg.tar.zst</a></p>
