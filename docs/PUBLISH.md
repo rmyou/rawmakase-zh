@@ -57,8 +57,18 @@ Server = https://你的用户名.github.io/rawmakase-zh
 sudo pacman -Sy rawmakase-zh
 ```
 
-> 这是二进制仓库，装的时候不编译；`SigLevel = Optional` 表示不校验数据库签名。
-> 想要签名就先生成 GPG 密钥，再跑 `tools/make-repo.sh --sign`。
+> 这是二进制仓库，装的时候不编译。`make-repo.sh` 默认用本机 GPG 私钥给**数据库和包**
+> 都签名，并把公钥导出成 `repo/rawmakase-zh.asc` / `.gpg`，所以配置里用
+> `SigLevel = Required`。用户首次安装要导入公钥：
+>
+> ```sh
+> sudo pacman-key --add - <(curl -fsSL https://你的用户名.github.io/rawmakase-zh/rawmakase-zh.asc)
+> sudo pacman-key --lsign-key F2EBB07B9579715A     # 你的密钥 ID
+> ```
+>
+> 本机密钥：`rawmakase-zh pacman repo <rmyou@users.noreply.github.com>`，
+> 指纹 `208D 1B49 5828 C60E 1296  27A8 F2EB B07B 9579 715A`（无口令，仅用于签名仓库）。
+> 想给密钥加口令：`gpg --edit-key F2EBB07B9579715A passwd`，之后签名时 gpg-agent 会问一次。
 
 ## 3. 方案 B：AUR（等恢复后）
 

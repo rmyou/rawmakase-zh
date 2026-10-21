@@ -22,10 +22,16 @@
 
 ### pacman 仓库（推荐）
 
+```sh
+# 只需一次：导入仓库签名公钥
+sudo pacman-key --add - <(curl -fsSL https://rmyou.github.io/rawmakase-zh/rawmakase-zh.asc)
+sudo pacman-key --lsign-key F2EBB07B9579715A
+```
+
 ```ini
 # /etc/pacman.conf 末尾
 [rawmakase-zh]
-SigLevel = Optional
+SigLevel = Required
 Server = https://rmyou.github.io/rawmakase-zh
 ```
 
@@ -33,7 +39,8 @@ Server = https://rmyou.github.io/rawmakase-zh
 sudo pacman -Sy rawmakase-zh
 ```
 
-装的是预编译包，不本地编译。仓库主页：https://rmyou.github.io/rawmakase-zh/
+装的是预编译包，不本地编译；数据库与包都带 GPG 签名（`SigLevel = Required` 会校验）。
+仓库主页：https://rmyou.github.io/rawmakase-zh/
 
 > AUR 自 2026-06 起关闭新账号注册、2026-08 起冻结推送，暂时无法上架；`aur/` 里的
 > PKGBUILD 已备好，等 AUR 恢复后可直接推送，那时用户就能用 `yay -S rawmakase-zh`。
