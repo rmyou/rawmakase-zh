@@ -65,7 +65,7 @@ $keyblock
 <pre>[rawmakase-zh]
 SigLevel = $siglevel
 Server = ${REPO_URL:-https://OWNER.github.io/rawmakase-zh}</pre>
-<p>写进 <code>/etc/pacman.conf</code> 末尾，然后 <code>sudo pacman -Sy rawmakase-zh</code>。</p>
+<p>写进 <code>/etc/pacman.conf</code> 末尾，然后 <code>sudo pacman -Syu rawmakase-zh</code>。</p>
 <p>包文件：<a href="$name">$name</a></p>
 EOF
 

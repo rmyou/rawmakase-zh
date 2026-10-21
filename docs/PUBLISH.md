@@ -54,7 +54,7 @@ Server = https://你的用户名.github.io/rawmakase-zh
 ```
 
 ```sh
-sudo pacman -Sy rawmakase-zh
+sudo pacman -Syu rawmakase-zh
 ```
 
 > 这是二进制仓库，装的时候不编译。`make-repo.sh` 默认用本机 GPG 私钥给**数据库和包**

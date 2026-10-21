@@ -36,7 +36,7 @@ Server = https://rmyou.github.io/rawmakase-zh
 ```
 
 ```sh
-sudo pacman -Sy rawmakase-zh
+sudo pacman -Syu rawmakase-zh
 ```
 
 装的是预编译包，不本地编译；数据库与包都带 GPG 签名（`SigLevel = Required` 会校验）。
