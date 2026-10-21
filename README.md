@@ -20,11 +20,23 @@
 
 ## 安装
 
-### AUR（推荐）
+### pacman 仓库（推荐）
+
+```ini
+# /etc/pacman.conf 末尾
+[rawmakase-zh]
+SigLevel = Optional
+Server = https://rmyou.github.io/rawmakase-zh
+```
 
 ```sh
-yay -S rawmakase-zh        # 或 paru -S rawmakase-zh
+sudo pacman -Sy rawmakase-zh
 ```
+
+装的是预编译包，不本地编译。仓库主页：https://rmyou.github.io/rawmakase-zh/
+
+> AUR 自 2026-06 起关闭新账号注册、2026-08 起冻结推送，暂时无法上架；`aur/` 里的
+> PKGBUILD 已备好，等 AUR 恢复后可直接推送，那时用户就能用 `yay -S rawmakase-zh`。
 
 ### 手动构建
 
