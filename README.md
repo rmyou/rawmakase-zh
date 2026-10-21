@@ -29,7 +29,7 @@ yay -S rawmakase-zh        # 或 paru -S rawmakase-zh
 ### 手动构建
 
 ```sh
-git clone https://github.com/OWNER/rawmakase-zh.git
+git clone https://github.com/rmyou/rawmakase-zh.git
 cd rawmakase-zh
 # 需要 Rust 1.98+、libraw、lcms2、clang、pkgconf 和一套中文字体
 tools/rebuild-zh.sh latest                 # 克隆上游、打补丁、编译、装到 /usr/local
