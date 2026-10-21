@@ -39,14 +39,15 @@ jobs:
     container: archlinux:latest
     steps:
       - name: install tools
-        run: pacman -Sy --noconfirm --needed git python pacman-contrib >/dev/null
+        run: |
+          pacman -Sy --noconfirm --needed git python pacman-contrib namcap >/dev/null
+          useradd -m builder
       - uses: actions/checkout@v4
       - name: .SRCINFO matches PKGBUILD
         run: |
+          chown -R builder:builder "$GITHUB_WORKSPACE"
           cd aur
-          makepkg --printsrcinfo > /tmp/SRCINFO
+          su builder -c "cd '$PWD' && makepkg --printsrcinfo" > /tmp/SRCINFO
           diff -u .SRCINFO /tmp/SRCINFO
       - name: PKGBUILD lint
-        run: |
-          cd aur
-          namcap PKGBUILD || true
+        run: namcap aur/PKGBUILD || true

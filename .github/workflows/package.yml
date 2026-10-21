@@ -15,7 +15,7 @@ jobs:
       - name: prepare the container
         run: |
           pacman -Syu --noconfirm --needed git base-devel rust clang python \
-            libraw lcms2 libjpeg-turbo zlib libgomp >/dev/null
+            hicolor-icon-theme >/dev/null
           useradd -m builder
       - uses: actions/checkout@v4
         with:
