@@ -40,7 +40,7 @@ jobs:
     steps:
       - name: install tools
         run: |
-          pacman -Sy --noconfirm --needed git python pacman-contrib namcap >/dev/null
+          pacman -Sy --noconfirm --needed git python pacman-contrib namcap diffutils >/dev/null
           useradd -m builder
       - uses: actions/checkout@v4
       - name: .SRCINFO matches PKGBUILD
